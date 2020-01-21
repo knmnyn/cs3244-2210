@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Machine Learning"
 excerpt: "About me"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
+
+#### NUS SoC, 2020/2021, Semester I, Time and Venue TBA"
 
 **N.B. This is not the current semester's module for AY 19/20 Sem II! Please see LumiNUS for Bryan Low's module.**
 
