@@ -59,7 +59,7 @@ yandex_site_verification :
 twitter:
   username               : &twitter
 facebook:
-  username               : 
+  username               :
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "CS3244 Machine Learning"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Our undergraduate machine learning course at the National University of Singapore's School of Computing"
   location         : "Singapore"
   employer         : "NUS"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -218,10 +218,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _publications > schedule
   - scope:
       path: ""
-      type: publications
+      type: schedule
     values:
       layout: single
       author_profile: true
