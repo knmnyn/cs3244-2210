@@ -16,14 +16,14 @@ This class will be _flipped_; i.e., you will be asked to watch videos on YouTube
 <thead class="thead-inverse"><tr><th>Date</th><th>Description</th><th>Deadlines</th></tr></thead>
 <tbody>
 <tr>
-  <td><b>Week 1</b><br />12 Aug
+  <td><b>NUS Week 1</b><br />13 Aug
   </td>
   <td>Administrivia and Paradigms of Learning</td>
   <td><i>15 Aug 12:00-14:00: In-class session</i>
   </td>
 </tr>
 <tr>
-  <td><b>Week 2</b><br />19 Aug
+  <td><b>Week 2</b><br />20 Aug
   </td>
   <td>Concept Learning
   </td>
@@ -31,7 +31,7 @@ This class will be _flipped_; i.e., you will be asked to watch videos on YouTube
   </td>
 </tr>
 <tr>
-  <td><b>Week 3</b><br />26 Aug
+  <td><b>Week 3</b><br />27 Aug
   </td>
   <td>Naïve Bayes and k-Nearest Neighbors
   <em><br />T01: Paradigms of Learning</em>
@@ -40,7 +40,7 @@ This class will be _flipped_; i.e., you will be asked to watch videos on YouTube
   </td>
 </tr>
 <tr>
-  <td><b>Week 4</b><br />2 Sep
+  <td><b>Week 4</b><br />3 Sep
   </td>
   <td>Linear Classifiers and Logistic Regression
   <br /><em>T02: Concept Learning, Naïve Bayes and k-Nearest Neighbors</em>
@@ -49,7 +49,7 @@ This class will be _flipped_; i.e., you will be asked to watch videos on YouTube
   </td>
 </tr>
 <tr>
-  <td><b>Week 5</b><br />9 Sep
+  <td><b>Week 5</b><br />10 Sep
   </td>
   <td>Bias and Variance and Overfitting
   <br />
@@ -60,7 +60,7 @@ This class will be _flipped_; i.e., you will be asked to watch videos on YouTube
   </td>
 </tr>
 <tr>
-  <td><b>Week 6</b><br />16 Sep
+  <td><b>Week 6</b><br />17 Sep
   </td>
   <td>Regularization and Validation
   <br /><em>T04: Bias, Variance and Overfitting</em>
@@ -69,7 +69,7 @@ This class will be _flipped_; i.e., you will be asked to watch videos on YouTube
   </td>
 </tr>
 <tr>
-  <td><b>Recess Week</b><br />23 Sep
+  <td><b>Recess Week</b><br />24 Sep
   </td>
   <td>
   </td>
@@ -77,7 +77,7 @@ This class will be _flipped_; i.e., you will be asked to watch videos on YouTube
   </td>
 </tr>
 <tr>
-  <td><b>Week 7</b><br />30 Sep
+  <td><b>Week 7</b><br />1 Oct
   </td>
   <td>Midterm and Guest Lectures
   </td>
@@ -85,7 +85,7 @@ This class will be _flipped_; i.e., you will be asked to watch videos on YouTube
   </td>
 </tr>
 <tr>
-  <td><b>Week 8</b><br />7 Oct
+  <td><b>Week 8</b><br />8 Oct
   </td>
   <td>Neural Networks
   <br /><em>T05: Regularization and Validation</em>
@@ -94,7 +94,7 @@ This class will be _flipped_; i.e., you will be asked to watch videos on YouTube
   </td>
 </tr>
 <tr>
-  <td><b>Week 9</b><br />14 Oct
+  <td><b>Week 9</b><br />15 Oct
   </td>
   <td>Deep Learning
   <br /><em>T06: Neural Nets</em>
@@ -103,7 +103,7 @@ This class will be _flipped_; i.e., you will be asked to watch videos on YouTube
   </td>
 </tr>
 <tr>
-  <td><b>Week 10</b><br />21 Oct
+  <td><b>Week 10</b><br />22 Oct
   </td>
   <td>Decision Trees and Ensembles
   <br /><em>T07: Deep Learning</em>
@@ -112,7 +112,7 @@ This class will be _flipped_; i.e., you will be asked to watch videos on YouTube
   </td>
 </tr>
 <tr>
-  <td><b>Week 11</b><br />28 Oct
+  <td><b>Week 11</b><br />29 Oct
   </td>
   <td>Unsupervised ML: k Means and Expectation Maximization
   <br /><em>T08: Decision Trees and Ensembles</em>
@@ -122,32 +122,31 @@ This class will be _flipped_; i.e., you will be asked to watch videos on YouTube
   </td>
 </tr>
 <tr>
-  <td><b>Week 12</b><br />4 Nov
+  <td><b>Week 12</b><br />5 Nov
   </td>
   <td>Reinforcement ML
   <br /><em>T09: Unsupervised Learning</em>
   </td>
   <td>Non-STePS teams: Poster Presentations to Staff
-  <br />Non-STePS teams: 7 Nov 23:59: Peer grading of the Non-STePS Project Posters and Videos Due
+  <br />Non-STePS teams: 6 Nov 23:59: Peer grading of the Non-STePS Project Posters and Videos Due
   </td>
 </tr>
 <tr>
-  <td><b>Week 13</b><br />11 Nov
+  <td><b>Week 13</b><br />12 Nov
   </td>
   <td>Machine Learning Ethics
   <br /><em>T10: Reinforcement ML</em>
   </td>
-  <td>STePS teams: 13 Nov 18:00: Project Posters and Videos Due
-    <br />STePS teams: 13 Nov 18:00-22:00: Participation on evening of <a href="http://isteps.comp.nus.edu.sg/event/15th-steps/module/CS3244">15th STePS</a>
-    <br />14 Nov 12:00-14:00: <s>In-class session</s> Flipped classroom as per normal.
-    <br />STePS teams: 14 Nov 23:59: Peer grading of peer STePS Project Posters and Videos Due
-    <br />15 Nov 23:59: Project Reports Due
+  <td>STePS teams: 11 Nov 18:00: Project Posters and Videos Due
+    <br />STePS teams: 11 Nov 18:00-22:00: Participation on evening of <a href="http://isteps.comp.nus.edu.sg/event/17th-steps/module/CS3244">17th STePS</a>
+    <br />STePS teams: 13 Nov 23:59: Peer grading of peer STePS Project Posters and Videos Due
+    <br />13 Nov 23:59: Project Reports Due
   </td>
 </tr>
 <tr>
-  <th><b>Exam Week</b><br />25 Nov
+  <th><b>Exam Week</b><br />TBA
   </th>
-  <th>Final Assessment (13:00-15:00)
+  <th>Final Assessment (TBA)
   </th>
   <th>
   </th>
