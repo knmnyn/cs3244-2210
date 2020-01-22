@@ -38,11 +38,15 @@ These tutorial session timings and venues are still subject to change. Please se
 
 Office hours are held (before and after class), but more commonly by appointment. Emails to me as a default are assumed to be public, and my replies and your anonymized email will likely be posted to Coursemology. Please let me know if you do not want the contents of your email posted; I will be happy to honor your requests.
 
-## Teaching Assistants**
+## Teaching Assistants
 
 ### Graduate Teaching Assistants
 
+_TBA_
+
 ### Undergraduate Teaching Assistants
+
+_TBA_
 
 ### Workload
 
