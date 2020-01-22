@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-#### NUS SoC, 2020/2021, Semester I, Time and Venue TBA"
+#### NUS SoC, 2020/2021, Semester I, Time and Venue TBA
 
 **N.B. This is not the current semester's module for AY 19/20 Sem II! Please see LumiNUS for Bryan Low's module.**
 
