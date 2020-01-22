@@ -5,8 +5,6 @@ permalink: /projects/
 author_profile: false
 ---
 
-<h2>Student Projects</h2>
-
 _Credits_: Much of the architecture for this course project comes from
 Bryan Low (NUS) and Thorsten Joachims (Cornell)_
 
@@ -41,7 +39,7 @@ into account when grading.
 
 ### Kaggle Competition Projects
 
-On the <a href="http://kaggle.com">Kaggle</a> website, you can find and choose
+On the (Kaggle)[http://kaggle.com] website, you can find and choose
 from a number of interesting machine learning competitions. Upon
 joining a competition, you will be provided with a training and
 testing sets, and your performance will be measured with specified
@@ -97,7 +95,7 @@ The general grading metrics are as follows:
 
 ike supervised machine learning, sometimes it’s easier to learn from
 data than from rubrics.  You can get a look at past projects by
-looking the (previous iteration of
-CS3244)[https://www.comp.nus.edu.sg/~kanmy/courses/3244_1810] (i.e.,
-Semester I, AY 18/19) and finding the past projects on the webpage
-(scroll down to the **Projects** part).
+looking the previous iterations of
+CS3244 from either
+[Semester I, AY 19/20](https://isteps.comp.nus.edu.sg/event/15th-steps/module/CS3244) or
+[Semester I, AY 18/19](https://isteps.comp.nus.edu.sg/event/13th-steps/module/CS3244).
