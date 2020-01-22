@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Announcements"
+    url: /year-archive/
+
   - title: "Schedule"
     url: /schedule/
 
@@ -11,9 +14,6 @@ main:
 
   - title: "Portfolio"
     url: /portfolio/
-
-  - title: "Blog Posts"
-    url: /year-archive/
 
   - title: "Links"
     url: /links/
