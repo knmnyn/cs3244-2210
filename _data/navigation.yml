@@ -3,8 +3,8 @@ main:
   - title: "Schedule"
     url: /schedule/
 
-  - title: "Teaching"
-    url: /teaching/
+  - title: "Grading"
+    url: /grading/
 
   - title: "Projects"
     url: /projects/

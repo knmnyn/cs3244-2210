@@ -93,7 +93,7 @@ The general grading metrics are as follows:
 * Scope/Size (in proportion to size of group)
 * Significance (are the questions you are asking interesting)
 
-ike supervised machine learning, sometimes it’s easier to learn from
+As with supervised machine learning, sometimes it’s easier to learn from
 data than from rubrics.  You can get a look at past projects by
 looking the previous iterations of
 CS3244 from either

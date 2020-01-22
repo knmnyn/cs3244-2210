@@ -175,10 +175,10 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  schedule:
     output: true
     permalink: /:collection/:path/
-  schedule:
+  grading:
     output: true
     permalink: /:collection/:path/
   portfolio:
@@ -208,13 +208,13 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _teaching > grading
   - scope:
       path: ""
-      type: teaching
+      type: grading
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
       comments: true
   # _publications > schedule
@@ -223,7 +223,7 @@ defaults:
       type: schedule
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
       comments: true
   # _portfolio
