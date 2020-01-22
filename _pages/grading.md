@@ -14,20 +14,17 @@ assessment will largely be MCQ/MRQ based.
 
 <table class="table table-striped" style="margin-left: auto; margin-right:auto">
   <thead class="thead-inverse"><tr><th>Description</th><th>Percentage</th></tr></thead>
-  <tbody>
-    <tr><td>Midterm (3 Oct 2019, in-class)</td><td>20%</td></tr>
+  <tbody> 
+    <tr><td>Midterm (1 Oct 2019, in-class)</td><td>20%</td></tr>
     <tr><td>Machine Learning Project</td><td>30%</td></tr>
     <tr><td>Weekly Python Notebook Assessments</td><td>5%</td></tr>
     <tr><td>Participation</td><td>5%</td></tr>
-    <tr><td>Final Assessment (25 Nov 2019, 13:00-15:00)</td><td>40%</td></tr>
+    <tr><td>Final Assessment (TBA)</td><td>40%</td></tr>
     <tr><th><b>Total</b></th><th><b>100%</b></th></tr>
   </tbody>
 </table>
 
-This module is a flipped module, meaning that most lectures (with the
-exception of Weeks 1, 7 and 13) are online and done at your own pace
-through watching the appropriate pre-recorded videos.  For Weeks 1, 7
-and 13, you must be in class during the classroom hours.  Staff
+This module is a flipped module, meaning that the lectures are online and done at your own pace through watching the appropriate pre-recorded videos.  Staff
 contact will be mostly conducted through Tutorials and Project
 Consultations (to be arranged individually per project group).
 
@@ -100,7 +97,7 @@ to Prof. Dymond at York University’s use of it in 1984.
 ## Late Submissions
 
 All homework assignments are due to Coursemology by 23:59:59
-(Singapore time) on the due date. No exceptions without a medical
+(Singapore time; SGT) on the due date. No exceptions without a medical
 certificate will be made. The following penalties will apply for late
 submissions:
 
