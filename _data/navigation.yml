@@ -12,8 +12,9 @@ main:
   - title: "Projects"
     url: /projects/
 
-  - title: "Portfolio"
-    url: /portfolio/
+# Min: 200122 - keep for now but comment out.
+#  - title: "Portfolio"
+#    url: /portfolio/
 
   - title: "Links"
     url: /links/
