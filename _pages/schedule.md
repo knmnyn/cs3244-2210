@@ -155,6 +155,10 @@ This class will be _flipped_; i.e., you will be asked to watch videos on YouTube
 
 <p><br /></p>
 
+<!--
+
 <p>You can import the below calendar via its URL <a href="https://calendar.google.com/calendar?cid=MTFnY205bm5pNjJxcDIwcWhqOTVpOHFuNHNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">https://calendar.google.com/calendar?cid=MTFnY205bm5pNjJxcDIwcWhqOTVpOHFuNHNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ</a>.</p>
 
 <center><iframe align="middle" src="https://calendar.google.com/calendar/embed?height=400&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Asia%2FSingapore&amp;src=MTFnY205bm5pNjJxcDIwcWhqOTVpOHFuNHNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%230B8043&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA" style="border-width:0" width="800" height="400" frameborder="0" scrolling="no"></iframe></center>
+
+-->
