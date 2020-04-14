@@ -19,7 +19,7 @@ This class will be _flipped_; i.e., you will be asked to watch videos on YouTube
   <td><b>NUS Week 1</b><br />Thu, 13 Aug
   </td>
   <td>Administrivia and Paradigms of Learning</td>
-  <td><i>13 Aug 12:00-14:00: In-class session</i>
+  <td>Thu, 13 Aug 12:00-14:00: In-class session
   </td>
 </tr>
 <tr>
