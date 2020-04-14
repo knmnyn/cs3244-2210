@@ -108,7 +108,7 @@ This class will be _flipped_; i.e., you will be asked to watch videos on YouTube
   <td>Decision Trees and Ensembles
   <br /><em>T07: Deep Learning</em>
   </td>
-  <td>19-23 Oct, STePS teams: 2nd Project Consultations with Staff
+  <td>STePS teams: 19-23 Oct, 2nd Project Consultations with Staff
   </td>
 </tr>
 <tr>
@@ -117,7 +117,7 @@ This class will be _flipped_; i.e., you will be asked to watch videos on YouTube
   <td>Unsupervised ML: k Means and Expectation Maximization
   <br /><em>T08: Decision Trees and Ensembles</em>
   </td>
-  <td>26-30 Oct, STePS teams: 2nd Project Consultations with Staff
+  <td>STePS teams: 26-30 Oct, 2nd Project Consultations with Staff
   <br />Non-STePS teams: Fri, 30 Oct 23:59: Project Posters and Videos Due
   </td>
 </tr>
