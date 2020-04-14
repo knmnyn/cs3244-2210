@@ -16,10 +16,10 @@ This class will be _flipped_; i.e., you will be asked to watch videos on YouTube
 <thead class="thead-inverse"><tr><th>Date</th><th>Description</th><th>Deadlines</th></tr></thead>
 <tbody>
 <tr>
-  <td><b>NUS Week 1</b><br />13 Aug
+  <td><b>NUS Week 1</b><br />Thu, 13 Aug
   </td>
   <td>Administrivia and Paradigms of Learning</td>
-  <td><i>15 Aug 12:00-14:00: In-class session</i>
+  <td><i>13 Aug 12:00-14:00: In-class session</i>
   </td>
 </tr>
 <tr>
@@ -36,7 +36,7 @@ This class will be _flipped_; i.e., you will be asked to watch videos on YouTube
   <td>Naïve Bayes and k-Nearest Neighbors
   <em><br />T01: Paradigms of Learning</em>
   </td>
-  <td>26 Aug 23:59: Form subteams of Size 3
+  <td>Wed, 26 Aug 23:59: Form subteams of Size 3
   </td>
 </tr>
 <tr>
@@ -55,7 +55,7 @@ This class will be _flipped_; i.e., you will be asked to watch videos on YouTube
   <br />
   <em>T03: Linear Classifiers and Logistic Regression</em>
   </td>
-  <td>12 Sep 23:59: Project Proposals Due
+  <td>Fri, 11 Sep 23:59: Project Proposals Due
   <br />
   </td>
 </tr>
@@ -65,7 +65,7 @@ This class will be _flipped_; i.e., you will be asked to watch videos on YouTube
   <td>Regularization and Validation
   <br /><em>T04: Bias, Variance and Overfitting</em>
   </td>
-  <td>19 Sep 23:59: Peer Grading of Project Proposals Due
+  <td>Fri, 18 Sep 23:59: Peer Grading of Project Proposals Due
   </td>
 </tr>
 <tr>
@@ -81,7 +81,7 @@ This class will be _flipped_; i.e., you will be asked to watch videos on YouTube
   </td>
   <td>Midterm and Guest Lectures
   </td>
-  <td>3 Oct 12:00-14:00: In-class midterm and guest lectures
+  <td>Thu, 1 Oct 12:00-14:00: In-class midterm and guest lectures
   </td>
 </tr>
 <tr>
@@ -90,7 +90,7 @@ This class will be _flipped_; i.e., you will be asked to watch videos on YouTube
   <td>Neural Networks
   <br /><em>T05: Regularization and Validation</em>
   </td>
-  <td>Interim Project Consultations with Staff
+  <td>5-9 Oct, Interim Project Consultations with Staff
   </td>
 </tr>
 <tr>
@@ -99,7 +99,7 @@ This class will be _flipped_; i.e., you will be asked to watch videos on YouTube
   <td>Deep Learning
   <br /><em>T06: Neural Nets</em>
   </td>
-  <td>Interim Project Consultations with Staff
+  <td>12-16 Oct, Interim Project Consultations with Staff
   </td>
 </tr>
 <tr>
@@ -108,7 +108,7 @@ This class will be _flipped_; i.e., you will be asked to watch videos on YouTube
   <td>Decision Trees and Ensembles
   <br /><em>T07: Deep Learning</em>
   </td>
-  <td>STePS teams: 2nd Project Consultations with Staff
+  <td>19-23 Oct, STePS teams: 2nd Project Consultations with Staff
   </td>
 </tr>
 <tr>
@@ -117,8 +117,8 @@ This class will be _flipped_; i.e., you will be asked to watch videos on YouTube
   <td>Unsupervised ML: k Means and Expectation Maximization
   <br /><em>T08: Decision Trees and Ensembles</em>
   </td>
-  <td>STePS teams: 2nd Project Consultations with Staff
-  <br />Non-STePS teams: 31 Oct 23:59: Project Posters and Videos Due
+  <td>26-30 Oct, STePS teams: 2nd Project Consultations with Staff
+  <br />Non-STePS teams: Fri, 30 Oct 23:59: Project Posters and Videos Due
   </td>
 </tr>
 <tr>
@@ -128,7 +128,7 @@ This class will be _flipped_; i.e., you will be asked to watch videos on YouTube
   <br /><em>T09: Unsupervised Learning</em>
   </td>
   <td>Non-STePS teams: Poster Presentations to Staff
-  <br />Non-STePS teams: 6 Nov 23:59: Peer grading of the Non-STePS Project Posters and Videos Due
+  <br />Non-STePS teams: Fri, 6 Nov 23:59: Peer grading of the Non-STePS Project Posters and Videos Due
   </td>
 </tr>
 <tr>
@@ -137,10 +137,10 @@ This class will be _flipped_; i.e., you will be asked to watch videos on YouTube
   <td>Machine Learning Ethics
   <br /><em>T10: Reinforcement ML</em>
   </td>
-  <td>STePS teams: 11 Nov 18:00: Project Posters and Videos Due
-    <br />STePS teams: 11 Nov 18:00-22:00: Participation on evening of <a href="http://isteps.comp.nus.edu.sg/event/17th-steps/module/CS3244">17th STePS</a>
-    <br />STePS teams: 13 Nov 23:59: Peer grading of peer STePS Project Posters and Videos Due
-    <br />13 Nov 23:59: Project Reports Due
+  <td>STePS teams: Wed, 11 Nov 18:00: Project Posters and Videos Due
+    <br />STePS teams: Wed, 11 Nov 18:00-22:00: Participation on evening of <a href="http://isteps.comp.nus.edu.sg/event/17th-steps/module/CS3244">17th STePS</a>
+    <br />STePS teams: Fri, 13 Nov 23:59: Peer grading of peer STePS Project Posters and Videos Due
+    <br />Fri, 13 Nov 23:59: Project Reports Due
   </td>
 </tr>
 <tr>
