@@ -6,4 +6,4 @@ tags:
   - instructor
 ---
 
-- Please note that this website is for external reference only.  Class students should refer to the Coursemology Learning Management System for all official announcements, as this website may not be updated (and thus may be unsynchronised and inaccurate).
+Please note that this website is for external reference only.  Class students should refer to the Coursemology Learning Management System for all official announcements, as this website may not be updated (and thus may be unsynchronised and inaccurate).
