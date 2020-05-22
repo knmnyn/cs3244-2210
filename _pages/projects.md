@@ -99,3 +99,5 @@ looking the previous iterations of
 CS3244 projects as housed in SoC's STePS platform, from either
 [Semester I, AY 19/20](https://isteps.comp.nus.edu.sg/event/15th-steps/module/CS3244) or
 [Semester I, AY 18/19](https://isteps.comp.nus.edu.sg/event/13th-steps/module/CS3244).
+
+We also would like to thank [AWS Educate](https://aws.amazon.com/education/awseducate/students/) for their continued sponsorship of our course by allowing our course administrators to distribute 10,000 USD worth of AWS credits to project teams that declare that they will be using AWS platform for their course project work.
