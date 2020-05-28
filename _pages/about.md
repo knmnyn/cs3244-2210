@@ -14,12 +14,12 @@ This module introduces basic concepts and algorithms in machine learning and neu
 
 We will be using the [Coursemology](http://coursemology.org/courses/1677) Learning Management System for the administration of this course.
 
-N.B. We will be teaching and using the Python programming language throughout this class and Jupyter Notebook via Google Colab. We will using Python 3.x
+N.B. We will be teaching and using the Python programming language throughout this class and Jupyter Notebook via Google Colab. We will using Python 3.x, and largely the SciKitLearn and PyTorch libraries.
 
 ## Class Structure
 This class is a _flipped_ class, a variant of a blended class. You’ll watch the first part of the video lecture before coming to tutorial, and then watch a subsequent video recorded lecture post-tutorial, to further reinforce the tutorial. 
 
-Likely we will have a watch party during class timings where the instructor will be present and discuss with you directly and ask you participation questions via Zoom/ 
+Likely we will have a watch party during class timings where the instructor will be present and discuss with you directly and ask you participation questions via Zoom.
 
 ### Tutorial Sessions
 There will be tutorials for this class. As the class is flipped, these sessions will be the primary means by which we touch base with you and get to know you personally. Please do attend these sessions via Zoom, as they will not be webcasted (although tutorial solutions will be distributed, you should come to the sessions to get the complete picture, and to be a part of the class).
