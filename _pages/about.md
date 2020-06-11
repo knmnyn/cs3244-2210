@@ -34,6 +34,15 @@ These tutorial session timings still subject to change. Please see NUSMods for t
 
 **Instructors**:
 
+<figure>
+  <img src="https://www.comp.nus.edu.sg/~kanmy/img/gravatar.jpg"/>
+  <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+</figure>
+
+<div class="author__avatar">
+<img src="https://www.comp.nus.edu.sg/~kanmy/img/gravatar.jpg"/>
+</div>
+
 * Min-Yen KAN, [kanmy@comp.nus.edu.sg](mailto:kanmy@comp.nus.edu.sg) Office: AS6 05-12 (x61885).
 
 Office hours are held (before and after class), but more commonly by appointment. Emails to me as a default are assumed to be public, and my replies and your anonymized email will likely be posted to Coursemology. Please let me know if you do not want the contents of your email posted; I will be happy to honor your requests.
