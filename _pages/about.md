@@ -34,13 +34,11 @@ These tutorial session timings still subject to change. Please see NUSMods for t
 
 **Instructors**:
 
+<div class="author__avatar">
 <figure>
   <img src="https://www.comp.nus.edu.sg/~kanmy/img/gravatar.jpg"/>
-  <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+  <figcaption>Min-Yen KAN, [kanmy@comp.nus.edu.sg](mailto:kanmy@comp.nus.edu.sg) Office: AS6 05-12</figcaption>
 </figure>
-
-<div class="author__avatar">
-<img src="https://www.comp.nus.edu.sg/~kanmy/img/gravatar.jpg"/>
 </div>
 
 * Min-Yen KAN, [kanmy@comp.nus.edu.sg](mailto:kanmy@comp.nus.edu.sg) Office: AS6 05-12 (x61885).
