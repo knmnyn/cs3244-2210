@@ -35,10 +35,8 @@ These tutorial session timings still subject to change. Please see NUSMods for t
 **Instructors**:
 
 <div class="author__avatar">
-<figure>
   <img src="https://www.comp.nus.edu.sg/~kanmy/img/gravatar.jpg"/>
-  <figcaption>Min-Yen KAN, [kanmy@comp.nus.edu.sg](mailto:kanmy@comp.nus.edu.sg) Office: AS6 05-12</figcaption>
-</figure>
+  Min-Yen KAN, <A HREF="mailto:kanmy@comp.nus.edu.sg">kanmy@comp.nus.edu.sg</A><BR/>Office: AS6 05-12
 </div>
 
 * Min-Yen KAN, [kanmy@comp.nus.edu.sg](mailto:kanmy@comp.nus.edu.sg) Office: AS6 05-12 (x61885).
