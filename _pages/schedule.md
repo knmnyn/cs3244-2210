@@ -128,7 +128,7 @@ This class will be _flipped_; i.e., you will be asked to watch videos on YouTube
   <td>Machine Learning Ethics
   <br /><em>T09: Decision Trees and Ensembles</em>
   </td>
-  STePS teams: Wed, 4 Nov 18:00: Project Posters and Videos Due
+  <td>STePS teams: Wed, 4 Nov 18:00: Project Posters and Videos Due
   <br />STePS teams: Fri, 6 Nov 23:59: Peer grading of peer STePS Project Posters and Videos Due
   <br />All teams: Fri, 6 Nov 23:59: Project Reports Due
   </td>
