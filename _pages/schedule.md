@@ -79,9 +79,9 @@ This class will be _flipped_; i.e., you will be asked to watch videos on YouTube
 <tr>
   <td><b>Week 7</b><br />28 Sep
   </td>
-  <td>Reinforcement Learning and Midterm
+  <td>Reinforcement Learning and Exam 1
   </td>
-  <td>Thu, 1 Oct 11:00-12:00: In-class midterm.
+  <td>Thu, 1 Oct 11:00-12:00: In-class Exam 1.
   </td>
 </tr>
 <tr>
@@ -140,13 +140,14 @@ This class will be _flipped_; i.e., you will be asked to watch videos on YouTube
   <td>STePS teams: Wed, 11 Nov 18:00: Project Posters and Videos Due
     <br />STePS teams: Wed, 11 Nov 18:00-22:00: Participation on evening of <a href="http://isteps.comp.nus.edu.sg/event/17th-steps/module/CS3244">17th STePS</a>
     <br />STePS teams: Fri, 13 Nov 23:59: Peer grading of peer STePS Project Posters and Videos Due
+    <br />Thu, 12 Nov: Exam 2
     <br />Fri, 13 Nov 23:59: Project Reports Due
   </td>
 </tr>
 <tr>
   <th><b>Exam Week</b><br />TBA
   </th>
-  <th>Final Assessment (TBA)
+  <th>No Examinations.  100% Continuous Assessment.
   </th>
   <th>
   </th>
