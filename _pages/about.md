@@ -71,7 +71,12 @@ Office hours are held (before and after class), but more commonly by appointment
 
 ### Undergraduate Teaching Assistants
 
-<!-- Copy above tile from instructor -->
+<div class="author__avatar" style="text-align:center;">
+  <img src="images/elimwj.jpg"/><BR/>
+  <strong>Eugene LIM</strong>
+  <BR/>
+  <A HREF="mailto:elimwj@comp.nus.edu.sg">elimwj@comp.nus.edu.sg</A><BR/>
+</div>
 
 ### Workload
 
