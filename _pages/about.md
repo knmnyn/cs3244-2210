@@ -52,7 +52,7 @@ Linear algebra, calculus, probability and statistics and introductory computer p
 **Instructors**:
 
 <div class="author__avatar" style="text-align:center;">
-  <img src="https://www.comp.nus.edu.sg/~kanmy/img/gravatar.jpg"/><BR/>
+  <img src="kanmy.jpg"/><BR/>
   <strong>Min-Yen KAN</strong>
   <BR/>
   <A HREF="mailto:kanmy@comp.nus.edu.sg">kanmy@comp.nus.edu.sg</A><BR/>
