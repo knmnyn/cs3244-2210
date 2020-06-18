@@ -133,10 +133,10 @@ This class will be _flipped_; i.e., you will be asked to watch videos on YouTube
   <br />All teams: Fri, 6 Nov 23:59: Project Reports Due
   </td>
 </tr>
-<tr>Revision and Exam 2
+<tr>
   <td><b>Week 13</b><br />9 Nov
   </td>
-  <td>
+  <td>Revision and Exam 2
   <br /><em>T10: Unsupervised ML</em>
   </td>
   <td>
