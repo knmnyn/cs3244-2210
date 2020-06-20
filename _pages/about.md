@@ -52,6 +52,7 @@ Linear algebra, calculus, probability and statistics and introductory computer p
 **Instructors**:
 
 <div class="author__avatar" style="text-align:center;">
+  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
   <img src="images/kanmy.jpg"/><BR/>
   <strong>Min-Yen KAN</strong>
   <BR/>
@@ -68,6 +69,7 @@ Office hours are held (before and after class), but more commonly by appointment
 ### Graduate Teaching Assistants
 
 <div class="author__avatar" style="text-align:center;">
+  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
   <img src="images/Martin.JPG"/><BR/>
   <strong>Martin STROBEL</strong>
   <BR/>
@@ -77,6 +79,7 @@ Office hours are held (before and after class), but more commonly by appointment
 ### Undergraduate Teaching Assistants
 
 <div class="author__avatar" style="text-align:center;">
+  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
   <img src="images/elimwj.jpg"/><BR/>
   <strong>Eugene LIM</strong>
   <BR/>
@@ -84,6 +87,7 @@ Office hours are held (before and after class), but more commonly by appointment
 </div>
 
 <div class="author__avatar" style="text-align:center;">
+  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
   <img src="images/Yingnan.jpg"/><BR/>
   <strong>LIU Yingnan</strong>
   <BR/>
