@@ -84,7 +84,7 @@ Office hours are held (before and after class), but more commonly by appointment
 </div>
 
 <div class="author__avatar" style="text-align:center;">
-  <img src="images/Yingnan.jpeg"/><BR/>
+  <img src="images/Yingnan.jpg"/><BR/>
   <strong>LIU Yingnan</strong>
   <BR/>
   <A HREF="mailto:liu.yingnan@u.nus.edu">liu.yingnan@u.nus.edu</A><BR/>
