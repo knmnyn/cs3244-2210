@@ -78,6 +78,13 @@ Office hours are held (before and after class), but more commonly by appointment
   <A HREF="mailto:elimwj@comp.nus.edu.sg">elimwj@comp.nus.edu.sg</A><BR/>
 </div>
 
+<div class="author__avatar" style="text-align:center;">
+  <img src="images/Yingnan.jpeg"/><BR/>
+  <strong>LIU Yingnan</strong>
+  <BR/>
+  <A HREF="mailto:liu.yingnan@u.nus.edu">liu.yingnan@u.nus.edu</A><BR/>
+</div>
+
 ### Workload
 
 (3-1-0-3-3)
