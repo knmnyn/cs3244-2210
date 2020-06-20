@@ -68,7 +68,7 @@ Office hours are held (before and after class), but more commonly by appointment
 ### Graduate Teaching Assistants
 
 <div class="author__avatar" style="text-align:center;">
-  <img src="images/Martin.jpg"/><BR/>
+  <img src="images/Martin.JPG"/><BR/>
   <strong>Martin STROBEL</strong>
   <BR/>
   <A HREF="mailto:mstrobel@comp.nus.edu.sg">mstrobel@comp.nus.edu.sg</A><BR/>
