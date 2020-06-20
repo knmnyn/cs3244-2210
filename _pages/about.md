@@ -80,6 +80,14 @@ Office hours are held (before and after class), but more commonly by appointment
 
 <div class="author__avatar" style="text-align:center;">
   <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
+  <img src="images/sreyans.jpg"/><BR/>
+  <strong>Sreyans Sipani</strong>
+  <BR/>
+  <A HREF="mailto:ssipani@u.nus.edu">ssipani@u.nus.edu</A><BR/>
+</div>
+
+<div class="author__avatar" style="text-align:center;">
+  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
   <img src="images/elimwj.jpg"/><BR/>
   <strong>Eugene LIM</strong>
   <BR/>
