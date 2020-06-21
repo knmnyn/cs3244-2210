@@ -58,11 +58,11 @@ and more emphasis on coming up with interesting methods.
 <thead class="thead-inverse"><tr><th>Description</th><th>Percentage</th></tr></thead>
 <tbody>
 <tr><td>Proposal</td><td>3%</td></tr>
-<tr><td>Interim Presentation</td><td>5%</td></tr>
+<tr><td>Interim Presentation</td><td>6%</td></tr>
 <tr><td>Project Poster, Video and Poster Presentation</td><td>6 + 5 + 6 = 17%</td></tr>
-<tr><td>Final Project Report</td><td>7%</td></tr>
+<tr><td>Final Project Report</td><td>9%</td></tr>
 <tr><td>Peer Grading (of three other projects) </td><td>(counts towards <i>Participation</i>)</td></tr>
-<tr><th><b>Total</b></th><th><b>30%</b></th></tr>
+<tr><th><b>Total</b></th><th><b>35%</b></th></tr>
 </tbody>
 </table>
 <p><br /></p>
