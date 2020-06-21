@@ -12,7 +12,7 @@ redirect_from:
 
 This module introduces basic concepts and algorithms in machine learning and neural networks. The main reason for studying computational learning is to make better use of powerful computers to learn knowledge (or regularities) from the raw data. The ultimate objective is to build self-learning systems to relieve human from some of already-too-many programming tasks. At the end of the course, students are expected to be familiar with the theories and paradigms of computational learning, and capable of implementing basic learning systems.
 
-We will be using the [Coursemology](http://coursemology.org/courses/1677) Learning Management System for the administration of this course.
+We will be using the [Coursemology](http://coursemology.org/courses/1870) Learning Management System for the administration of this course.
 
 N.B. We will be teaching and using the Python programming language throughout this class and Jupyter Notebook via Google Colab. We will using Python 3.x, and largely the SciKitLearn and PyTorch libraries.
 
