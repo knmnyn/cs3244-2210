@@ -59,7 +59,7 @@ and more emphasis on coming up with interesting methods.
 <tbody>
 <tr><td>Proposal</td><td>3%</td></tr>
 <tr><td>Interim Presentation</td><td>5%</td></tr>
-<tr><td>Project Poster, Video and Poster Presentation</td><td>5 + 5 + 5 = 15%</td></tr>
+<tr><td>Project Poster, Video and Poster Presentation</td><td>6 + 5 + 6 = 17%</td></tr>
 <tr><td>Final Project Report</td><td>7%</td></tr>
 <tr><td>Peer Grading (of three other projects) </td><td>(counts towards <i>Participation</i>)</td></tr>
 <tr><th><b>Total</b></th><th><b>30%</b></th></tr>
@@ -72,7 +72,7 @@ a formal project proposal.  The staff and your peers will give you
 feedback.  After the project proposal, you will be assigned a contact
 TA that you can use as a resource for questions and advice.
 
-In Weeks 8-9, the staff will meet with all teams for the only
+In Weeks 7-8, the staff will meet with all teams for a first,
 mandatory consultation.  Your team will need to prepare a short
 presentation deck to present to the staff about the progress of your
 project.  Based on your team’s interest and the staff’s opinion on
