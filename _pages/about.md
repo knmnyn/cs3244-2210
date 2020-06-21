@@ -68,7 +68,9 @@ Office hours are held (before and after class), but more commonly by appointment
 
 ### Graduate Teaching Assistants
 
-<div class="author__avatar" style="text-align:center;">
+<div style="text-align:center;">
+
+<div class="author__avatar">
   <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
   <img src="images/Martin.JPG"/><BR/>
   <strong>Martin STROBEL</strong>
@@ -76,9 +78,13 @@ Office hours are held (before and after class), but more commonly by appointment
   <A HREF="mailto:mstrobel@comp.nus.edu.sg">mstrobel@comp.nus.edu.sg</A><BR/>
 </div>
 
+</div>
+
 ### Undergraduate Teaching Assistants
 
-<div class="author__avatar" style="text-align:center;">
+<div style="text-align:center;">
+
+<div class="author__avatar">
   <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
   <img src="images/sreyans.jpg"/><BR/>
   <strong>Sreyans Sipani</strong>
@@ -86,7 +92,7 @@ Office hours are held (before and after class), but more commonly by appointment
   <A HREF="mailto:ssipani@u.nus.edu">ssipani@u.nus.edu</A><BR/>
 </div>
 
-<div class="author__avatar" style="text-align:center;">
+<div class="author__avatar">
   <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
   <img src="images/elimwj.jpg"/><BR/>
   <strong>Eugene LIM</strong>
@@ -94,12 +100,14 @@ Office hours are held (before and after class), but more commonly by appointment
   <A HREF="mailto:elimwj@comp.nus.edu.sg">elimwj@comp.nus.edu.sg</A><BR/>
 </div>
 
-<div class="author__avatar" style="text-align:center;">
+<div class="author__avatar">
   <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
   <img src="images/Yingnan.jpg"/><BR/>
   <strong>LIU Yingnan</strong>
   <BR/>
   <A HREF="mailto:liu.yingnan@u.nus.edu">liu.yingnan@u.nus.edu</A><BR/>
+</div>
+
 </div>
 
 ### Workload
