@@ -9,6 +9,8 @@ We note that Machine Learning is a subject with a lot of very good expertise and
 
 This class will be _flipped_; i.e., you will be asked to watch videos on YouTube explaining the concepts on your own first (the pre videos), and then after the appropriate tutorial session where staff will guide you through the pertinent exercises and reinforcement activities. Post-tutorial, you will be expected to complete the second half of the videos (the post videos) and complete a set of mastery exercises in Coursemology.  Note that the dates in the _date_ column below are indexed for Mondays (the day of the first class lecture according to the registrar).
 
+To be clear, the dates on this website are just for easy reference, but the authoritative dates will always be in [Coursemology](https://coursemology.org/courses/1870).  Take note of any conflicting deadlines and let us know.
+
 <!--- For those who find the pace of the videos too fast or needing a bit more time to digest the materials, we will offer an in-class help session during the lecture slot (i.e., Thursdays 12:00-14:00) on the remaining weeks (Weeks 2-6 and 8-12). This is completely optional (not counting against your workload), and we will not be introducing any material for the help sessions. It is just voluntary help from all of us on the staff. -->
 
 
