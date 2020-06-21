@@ -129,8 +129,6 @@ This class will be _flipped_; i.e., you will be asked to watch videos on YouTube
   <br /><em>T09: Decision Trees and Ensembles</em>
   </td>
   <td>STePS teams: Wed, 4 Nov 18:00: Project Posters and Videos Due
-  <br />STePS teams: Fri, 6 Nov 23:59: Peer grading of peer STePS Project Posters and Videos Due
-  <br />All teams: Fri, 6 Nov 23:59: Project Reports Due
   </td>
 </tr>
 <tr>
@@ -142,6 +140,8 @@ This class will be _flipped_; i.e., you will be asked to watch videos on YouTube
   <td>
     STePS teams: Wed, 11 Nov 18:00-22:00: Participation on evening of <a href="http://isteps.comp.nus.edu.sg/event/17th-steps/module/CS3244">17th STePS</a>
     <br />Thu, 12 Nov 11:00-12:00: In-class Exam 2
+    <br />STePS teams: Fri, 13 Nov 23:59: Peer grading of peer STePS Project Posters and Videos Due
+    <br />All teams: Fri, 13 Nov 23:59: Project Reports Due
   </td>
 </tr>
 <tr>
