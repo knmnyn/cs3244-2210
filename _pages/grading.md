@@ -8,9 +8,7 @@ author_profile: true
 {% include base_path %}
 
 The grading for this class will comprise of the following continuous
-assessment milestones and a final assessment. The final exam will be
-open book, but the midterm is closed book.  Both the midterm and final
-assessment will largely be MCQ/MRQ based.
+assessment milestones, inclusive of two exams. Both exam assessments will largely be MCQ/MRQ based.
 
 <table class="table table-striped" style="margin-left: auto; margin-right:auto">
   <thead class="thead-inverse"><tr><th>Description</th><th>Percentage</th></tr></thead>
