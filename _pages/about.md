@@ -72,7 +72,7 @@ Office hours are held (before and after class), but more commonly by appointment
 
 <div class="author__avatar">
   <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
-  <img src="images/bio-photo.jpg"/ width="120"><BR/>
+  <img src="images/bio-photo.jpg" width="120"><BR/>
   <strong>Joel LEE</strong>
   <BR/>
   <A HREF="mailto:joel_lee@u.nus.edu">joel_lee@u.nus.edu</A><BR/>
