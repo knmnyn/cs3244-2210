@@ -78,6 +78,14 @@ Office hours are held (before and after class), but more commonly by appointment
   <A HREF="mailto:mstrobel@comp.nus.edu.sg">mstrobel@comp.nus.edu.sg</A><BR/>
 </div>
 
+<div class="author__avatar">
+  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
+  <img src="http://placekitten.com/120/120"/><BR/>
+  <strong>Joel Lee</strong>
+  <BR/>
+  <A HREF="mailto:joel_lee@u.nus.edu">joel_lee@u.nus.edu</A><BR/>
+</div>
+
 </div>
 
 ### Undergraduate Teaching Assistants
