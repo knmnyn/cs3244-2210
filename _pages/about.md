@@ -72,18 +72,18 @@ Office hours are held (before and after class), but more commonly by appointment
 
 <div class="author__avatar">
   <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
-  <img src="images/Martin.JPG"/><BR/>
-  <strong>Martin STROBEL</strong>
+  <img src="images/bio-photo.jpg"/ width="120"><BR/>
+  <strong>Joel LEE</strong>
   <BR/>
-  <A HREF="mailto:mstrobel@comp.nus.edu.sg">mstrobel@comp.nus.edu.sg</A><BR/>
+  <A HREF="mailto:joel_lee@u.nus.edu">joel_lee@u.nus.edu</A><BR/>
 </div>
 
 <div class="author__avatar">
   <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
-  <img src="http://placekitten.com/120/120"/><BR/>
-  <strong>Joel Lee</strong>
+  <img src="images/Martin.JPG"/><BR/>
+  <strong>Martin STROBEL</strong>
   <BR/>
-  <A HREF="mailto:joel_lee@u.nus.edu">joel_lee@u.nus.edu</A><BR/>
+  <A HREF="mailto:mstrobel@comp.nus.edu.sg">mstrobel@comp.nus.edu.sg</A><BR/>
 </div>
 
 </div>
@@ -91,14 +91,6 @@ Office hours are held (before and after class), but more commonly by appointment
 ### Undergraduate Teaching Assistants
 
 <div style="text-align:center;">
-
-<div class="author__avatar">
-  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
-  <img src="images/sreyans.jpg"/><BR/>
-  <strong>Sreyans Sipani</strong>
-  <BR/>
-  <A HREF="mailto:ssipani@u.nus.edu">ssipani@u.nus.edu</A><BR/>
-</div>
 
 <div class="author__avatar">
   <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
@@ -126,18 +118,26 @@ Office hours are held (before and after class), but more commonly by appointment
 
 <div class="author__avatar">
   <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
-  <img src="images/Tongyao.jpg"/><BR/>
-  <strong>ZHU Tongyao</strong>
+  <img src="images/bio-photo.jpg"/ width="120"><BR/>
+  <strong>Achal RAYAKAR</strong>
   <BR/>
-  <A HREF="mailto:tongyao.zhu@u.nus.edu">tongyao.zhu@u.nus.edu</A><BR/>
+  <A HREF="mailto:achal@u.nus.edu">achal@u.nus.edu</A><BR/>
 </div>
 
 <div class="author__avatar">
   <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
-  <img src="images/bio-photo.jpg"/><BR/>
-  <strong>Achal RAYAKAR</strong>
+  <img src="images/sreyans.jpg"/><BR/>
+  <strong>Sreyans SIPANI</strong>
   <BR/>
-  <A HREF="mailto:achal@u.nus.edu">achal@u.nus.edu</A><BR/>
+  <A HREF="mailto:ssipani@u.nus.edu">ssipani@u.nus.edu</A><BR/>
+</div>
+
+<div class="author__avatar">
+  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
+  <img src="images/Tongyao.jpg"/><BR/>
+  <strong>ZHU Tongyao</strong>
+  <BR/>
+  <A HREF="mailto:tongyao.zhu@u.nus.edu">tongyao.zhu@u.nus.edu</A><BR/>
 </div>
 
 </div>
