@@ -148,6 +148,14 @@ Office hours are held (before and after class), but more commonly by appointment
   <A HREF="mailto:shreyas@u.nus.edu">shreyas@u.nus.edu</A><BR/> 
 </div>
 
+<div class="author__avatar"> 
+  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally --> 
+  <img src="images/Chenyang.jpg"/><BR/> 
+  <strong>XUE Chenyang</strong> 
+  <BR/> 
+  <A HREF="mailto:xue.chenyang@u.nus.edu">xue.chenyang@u.nus.edu</A><BR/> 
+</div>
+
 </div>
 
 ### Workload
