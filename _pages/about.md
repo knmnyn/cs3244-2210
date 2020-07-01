@@ -156,6 +156,14 @@ Office hours are held (before and after class), but more commonly by appointment
   <A HREF="mailto:xue.chenyang@u.nus.edu">xue.chenyang@u.nus.edu</A><BR/> 
 </div>
 
+<div class="author__avatar"> 
+  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally --> 
+  <img src="images/LeowWB.jpg"/><BR/> 
+  <strong>LEOW Wen Bin</strong> 
+  <BR/> 
+  <A HREF="mailto:leowwb@u.nus.edu">leowwb@u.nus.edu</A><BR/> 
+</div>
+
 </div>
 
 ### Workload
