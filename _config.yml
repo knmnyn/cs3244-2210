@@ -83,8 +83,8 @@ author:
   name             : "CS3244 Machine Learning"
   avatar           : "jaywennington.png"
   bio              : "Our undergraduate machine learning course at the National University of Singapore's School of Computing"
-  location         : "Singapore"
-  employer         : "NUS"
+  location         : "NUS, Singapore"
+  employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "https://scholar.google.com/citations?user=aNVcd3EAAAAJ&hl=en"
   email            : "cs3244@comp.nus.edu.sg"

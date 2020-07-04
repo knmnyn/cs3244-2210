@@ -51,16 +51,15 @@ Linear algebra, calculus, probability and statistics and introductory computer p
 
 **Instructors**:
 
-<div class="author__avatar" style="text-align:center;">
-  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
-  <img src="images/kanmy.jpg"/><BR/>
-  <strong>Min-Yen KAN</strong>
-  <BR/>
-  <A HREF="mailto:kanmy@comp.nus.edu.sg">kanmy@comp.nus.edu.sg</A><BR/>
-  Office: AS6 05-12
+<div class="author__profile">
+  <img src="images/kanmy.jpg"/>
+  <div>
+    <strong>Min-Yen KAN</strong><br/>
+    <a href="mailto:kanmy@comp.nus.edu.sg" style="text-decoration:none"><i class="fas fa-envelope"></i> kanmy@comp.nus.edu.sg</a><br/>
+    <i class="fas fa-building"></i> AS6 05-12<br/><br/>
+    Office hours are held (before and after class), but more commonly by appointment. Emails to me as a default are assumed to be public, and my replies and your anonymized email will likely be posted to Coursemology. Please let me know if you do not want the contents of your email posted; I will be happy to honor your requests.
+  </div>
 </div>
-
-Office hours are held (before and after class), but more commonly by appointment. Emails to me as a default are assumed to be public, and my replies and your anonymized email will likely be posted to Coursemology. Please let me know if you do not want the contents of your email posted; I will be happy to honor your requests.
 
 ## Teaching Assistants
 
@@ -68,9 +67,9 @@ Office hours are held (before and after class), but more commonly by appointment
 
 ### Graduate Teaching Assistants
 
-<div style="text-align:center;">
+<div style="text-align:center; display:grid; grid-template-columns: 1fr 1fr 1fr; margin-top:30px;">
 
-<div class="author__avatar">
+<div class="tutor__profile">
   <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
   <img src="images/bio-photo.jpg" width="120"><BR/>
   <strong>Joel LEE</strong>
@@ -78,7 +77,7 @@ Office hours are held (before and after class), but more commonly by appointment
   <A HREF="mailto:joel_lee@u.nus.edu">joel_lee@u.nus.edu</A><BR/>
 </div>
 
-<div class="author__avatar">
+<div class="tutor__profile">
   <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
   <img src="images/Martin.JPG"/><BR/>
   <strong>Martin STROBEL</strong>
@@ -90,9 +89,9 @@ Office hours are held (before and after class), but more commonly by appointment
 
 ### Undergraduate Teaching Assistants
 
-<div style="text-align:center;">
+<div style="text-align:center; display:grid; grid-template-columns: 1fr 1fr 1fr; margin-top:30px;">
 
-<div class="author__avatar">
+<div class="tutor__profile">
   <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
   <img src="images/elimwj.jpg"/><BR/>
   <strong>Eugene LIM</strong>
@@ -100,7 +99,7 @@ Office hours are held (before and after class), but more commonly by appointment
   <A HREF="mailto:elimwj@comp.nus.edu.sg">elimwj@comp.nus.edu.sg</A><BR/>
 </div>
 
-<div class="author__avatar">
+<div class="tutor__profile">
   <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
   <img src="images/Yingnan.jpg"/><BR/>
   <strong>LIU Yingnan</strong>
@@ -108,7 +107,7 @@ Office hours are held (before and after class), but more commonly by appointment
   <A HREF="mailto:liu.yingnan@u.nus.edu">liu.yingnan@u.nus.edu</A><BR/>
 </div>
 
-<div class="author__avatar">
+<div class="tutor__profile">
   <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
   <img src="images/tianzhen.png"/><BR/>
   <strong>NI Tianzhen</strong>
@@ -116,7 +115,7 @@ Office hours are held (before and after class), but more commonly by appointment
   <A HREF="mailto:nitianzhen@u.nus.edu">nitianzhen@u.nus.edu</A><BR/>
 </div>
 
-<div class="author__avatar">
+<div class="tutor__profile">
   <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
   <img src="images/bio-photo.jpg" width="120"><BR/>
   <strong>Achal RAYAKAR</strong>
@@ -124,7 +123,7 @@ Office hours are held (before and after class), but more commonly by appointment
   <A HREF="mailto:achal@u.nus.edu">achal@u.nus.edu</A><BR/>
 </div>
 
-<div class="author__avatar">
+<div class="tutor__profile">
   <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
   <img src="images/sreyans.jpg"/><BR/>
   <strong>Sreyans SIPANI</strong>
@@ -132,7 +131,7 @@ Office hours are held (before and after class), but more commonly by appointment
   <A HREF="mailto:ssipani@u.nus.edu">ssipani@u.nus.edu</A><BR/>
 </div>
 
-<div class="author__avatar">
+<div class="tutor__profile">
   <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
   <img src="images/Tongyao.jpg"/><BR/>
   <strong>ZHU Tongyao</strong>
@@ -140,7 +139,7 @@ Office hours are held (before and after class), but more commonly by appointment
   <A HREF="mailto:tongyao.zhu@u.nus.edu">tongyao.zhu@u.nus.edu</A><BR/>
 </div>
 
-<div class="author__avatar"> 
+<div class="tutor__profile"> 
   <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally --> 
   <img src="images/Shreyas.jpg"/><BR/> 
   <strong>Shreyas KUTHANOOR PRAKASH</strong> 
@@ -148,7 +147,7 @@ Office hours are held (before and after class), but more commonly by appointment
   <A HREF="mailto:shreyas@u.nus.edu">shreyas@u.nus.edu</A><BR/> 
 </div>
 
-<div class="author__avatar"> 
+<div class="tutor__profile"> 
   <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally --> 
   <img src="images/Chenyang.jpg"/><BR/> 
   <strong>XUE Chenyang</strong> 
@@ -156,7 +155,7 @@ Office hours are held (before and after class), but more commonly by appointment
   <A HREF="mailto:xue.chenyang@u.nus.edu">xue.chenyang@u.nus.edu</A><BR/> 
 </div>
 
-<div class="author__avatar"> 
+<div class="tutor__profile"> 
   <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally --> 
   <img src="images/LeowWB.jpg"/><BR/> 
   <strong>LEOW Wen Bin</strong> 
