@@ -27,7 +27,8 @@ limited to:
 * Projects that explore the application of machine learning ideas to an interesting “real-world” problem.
 * Projects that involve a theoretical or empirical study of aspects of a learning method or model.
 * Projects that do an experimental, comparative study of various machine learning methods.
-* Projects that extend or synergise with an existing project (could be from a member of your group), such as a honors year project. <em>Caution: this type project may lead to unequal contribution, due to members’ prior expertise.</em>
+* Projects that extend or synergise with an existing project (could be from a member of your group), such as a honors year project. 
+<em>Caution: this type of project may lead to unequal contribution, due to members’ prior expertise.</em>
 
 Doing such a project gives you more flexibility and allows you work on
 something of your liking. However at the same time, this may
