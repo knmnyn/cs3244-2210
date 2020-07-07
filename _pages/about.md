@@ -178,6 +178,14 @@ Linear algebra, calculus, probability and statistics and introductory computer p
   <A HREF="mailto:leowwb@u.nus.edu">leowwb@u.nus.edu</A><BR/> 
 </div>
 
+<div class="tutor__profile">
+  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
+  <img src="images/bio-photo.jpg" width="120"><BR/>
+  <strong>Marcus Lee</strong>
+  <BR/>
+  <A HREF="mailto:marcus_lee@u.nus.edu">achal@u.nus.edu</A><BR/>
+</div>
+
 </div>
 
 ### Workload
