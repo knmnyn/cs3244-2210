@@ -85,6 +85,13 @@ Linear algebra, calculus, probability and statistics and introductory computer p
   <A HREF="mailto:mstrobel@comp.nus.edu.sg">mstrobel@comp.nus.edu.sg</A><BR/>
 </div>
 
+<div class="tutor__profile">
+  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
+  <img src="images/HuHengchang.jpg"/><BR/>
+  <strong>HU Hengchang</strong>
+  <BR/>
+  <A HREF="mailto:e0409766@u.nus.edu">e0409766@u.nus.edu</A><BR/>
+</div>
 </div>
 
 ### Undergraduate Teaching Assistants
