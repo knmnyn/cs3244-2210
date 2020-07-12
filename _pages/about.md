@@ -117,7 +117,7 @@ Linear algebra, calculus, probability and statistics and introductory computer p
 
 <div class="tutor__profile">
   <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
-  <img src="images/Zhenfeng.jpg"/><BR/>
+  <img src="images/Zhenfeng.png"/><BR/>
   <strong>HE Zhenfeng</strong>
   <BR/>
   <A HREF="mailto:he.zhenfeng@u.nus.edu">he.zhenfeng@u.nus.edu</A><BR/>
