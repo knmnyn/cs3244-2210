@@ -10,7 +10,11 @@ redirect_from:
 
 #### NUS SoC, 2020/2021, Semester I, Time and Venue: fully online via Zoom and YouTube.  Officially from LumiNUS: Mondays, 16:00-18:00 and Thursdays, 11:00-12:00.
 
-<P>
+<P>&nbsp;
+</P>
+<P>&nbsp;
+</P>
+<P>&nbsp;
 </P>
     
 
