@@ -19,10 +19,10 @@ N.B. We will be teaching and using the Python programming language throughout th
 ## Class Structure
 This class is a _flipped_ class, a variant of a blended class. You’ll watch the first part of the video lecture before coming to tutorial, and then watch a subsequent video recorded lecture post-tutorial, to further reinforce the tutorial.
 
-**Important**: Lecture slots are for e-learning, and for occasional assessments (in Weeks 7 and 13).  
+**Important**: Lecture slots are for e-learning, and for occasional assessments (in Weeks 07 and 13).  
 Do ensure that you have the lecture times free in your schedule to be available for scheduled exams.  There will no be alternate exam arrangements.
 
-Likely we will have a watch party during class timings where the instructor will be present and discuss with you directly and ask you participation questions via Zoom.
+For most of the Thursdays sessions, we will have a synchrnous help session where Min will field questions from students on questions, concerns and doubts you have on the lecture materials or other components of the course.
 
 ### Tutorial Sessions
 There will be tutorials for this class starting in Week 03.  As the class is flipped, these sessions will be the primary means by which we touch base with you and get to know you personally. Please do attend these sessions via Zoom, as they will not be webcasted (although tutorial solutions will be distributed, you should come to the sessions to get the complete picture, and to be a part of the class).
