@@ -140,8 +140,8 @@ To be clear, the dates on this website are just for easy reference, but the auth
   <br /><em>T10: Unsupervised ML</em>
   </td>
   <td>
-    · STePS teams: Wed, 11 Nov 18:00-22:00: Participation on evening of <a href="http://isteps.comp.nus.edu.sg/event/17th-steps/module/CS3244">17th STePS</a>
-    <br />· Mon, 9 Nov 16:00-18:00: In-class Exam 2
+    · Mon, 9 Nov 16:00-18:00: In-class Exam 2
+    <br />· STePS teams: Wed, 11 Nov 18:00-22:00: Participation on evening of <a href="http://isteps.comp.nus.edu.sg/event/17th-steps/module/CS3244">17th STePS</a>
     <br />· STePS teams: Fri, 13 Nov 23:59: Peer grading of peer STePS Project Posters and Videos Due
     <br />All teams: Fri, 13 Nov 23:59: Project Reports Due
   </td>
