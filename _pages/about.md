@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-#### NUS SoC, 2020/2021, Semester I, Time and Venue: fully online via Zoom and YouTube.  Officially from LumiNUS: Mondays, 16:00-18:00 and Thursdays, 11:00-12:00.
+#### NUS SoC, 2020/2021, Semester I, Time and Venue: fully online via Zoom and YouTube. Officially from LumiNUS: Mondays, 16:00-18:00 and Thursdays, 11:00-12:00.
 
 <P>&nbsp;
 </P>
@@ -25,6 +25,7 @@ We will be using the [Coursemology](http://coursemology.org/courses/1870) Learni
 N.B. We will be teaching and using the Python programming language throughout this class and Jupyter Notebook via Google Colab. We will using Python 3.x, and largely the SciKitLearn and PyTorch libraries.
 
 ## Class Structure
+
 This class is a _flipped_ class, a variant of a blended class. You’ll watch the first part of the video lecture before coming to tutorial, and then watch a subsequent video recorded lecture post-tutorial, to further reinforce the tutorial.
 
 **Important**: Lecture slots are for e-learning, and for occasional assessments (in Weeks 07 and 13).  
@@ -33,7 +34,8 @@ Do ensure that you have the lecture times free in your schedule to be available 
 For most of the Thursdays sessions, we will have a synchrnous help session where Min will field questions from students on questions, concerns and doubts you have on the lecture materials or other components of the course.
 
 ### Tutorial Sessions
-There will be tutorials for this class starting in Week 03.  As the class is flipped, these sessions will be the primary means by which we touch base with you and get to know you personally. Please do attend these sessions via Zoom, as they will not be webcasted (although tutorial solutions will be distributed, you should come to the sessions to get the complete picture, and to be a part of the class).
+
+There will be tutorials for this class starting in Week 03. As the class is flipped, these sessions will be the primary means by which we touch base with you and get to know you personally. Please do attend these sessions via Zoom, as they will not be webcasted (although tutorial solutions will be distributed, you should come to the sessions to get the complete picture, and to be a part of the class).
 
 These tutorial session timings still subject to change. Please see NUSMods for the most up-to-date details. As an enrolled student, you are entitled to one tutorial placement, and need to attend that slot even if not optimal for you. Nicely, all of the tutorials slots come before (Monday-Wednesday), the second class lecture slot on Thursdays.
 
@@ -43,13 +45,12 @@ Tutorial Sessions (tentative; as reported by LumiNUS ca. 17 Jun 2020):
 2. T02. Wednesdays, 17:00-18:00
 3. T03. Mondays, 15:00-16:00
 4. T04. Mondays, 14:00-15:00
-5. T05. Wednesdays,  11:00-12:00
+5. T05. Wednesdays, 11:00-12:00
 6. T06. Mondays, 12:00-13:00
 7. T07. Wednesdays, 16:00-17:00
 8. T08. Wednesdays, 10:00-11:00
 9. T09. Tuesdays, 16:00-17:00
 10. T10. Tuesdays, 17:00-18:00
-
 
 ## Course Characteristics
 
@@ -60,7 +61,7 @@ Tutorial Sessions (tentative; as reported by LumiNUS ca. 17 Jun 2020):
 Translation:
 Linear algebra, calculus, probability and statistics and introductory computer programming.
 
-Questions about prerequisities and waivers are handled centrally by the department.  Please contact [OOI Wei Tsang)](mailto:ooiwt@comp.nus.edu.sg) to describe your case and seek any waivers regarding prerequisities.
+Questions about prerequisities and waivers are handled centrally by the department. Please contact [OOI Wei Tsang)](mailto:ooiwt@comp.nus.edu.sg) to describe your case and seek any waivers regarding prerequisities.
 
 **Instructors**:
 
@@ -112,6 +113,14 @@ Questions about prerequisities and waivers are handled centrally by the departme
   <strong>Martin STROBEL</strong>
   <BR/>
   <A HREF="mailto:mstrobel@comp.nus.edu.sg">mstrobel@comp.nus.edu.sg</A><BR/>
+</div>
+
+<div class="tutor__profile">
+  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
+  <img src="images/abhinav.png"/><BR/>
+  <strong>Abhinav Ramesh Kashyap</strong>
+  <BR/>
+  <A HREF="mailto:abhinav@comp.nus.edu.sg">abhinav@comp.nus.edu.sg</A><BR/>
 </div>
 
 </div>
