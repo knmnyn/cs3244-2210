@@ -10,6 +10,10 @@ redirect_from:
 
 #### NUS SoC, 2020/2021, Semester I, Time and Venue: fully online via Zoom and YouTube.  Officially from LumiNUS: Mondays, 16:00-18:00 and Thursdays, 11:00-12:00.
 
+<P>
+</P>
+    
+
 This module introduces basic concepts and algorithms in machine learning and neural networks. The main reason for studying computational learning is to make better use of powerful computers to learn knowledge (or regularities) from the raw data. The ultimate objective is to build self-learning systems to relieve human from some of already-too-many programming tasks. At the end of the course, students are expected to be familiar with the theories and paradigms of computational learning, and capable of implementing basic learning systems.
 
 We will be using the [Coursemology](http://coursemology.org/courses/1870) Learning Management System for the administration of this course (the Coursemology course will be published in due time).
