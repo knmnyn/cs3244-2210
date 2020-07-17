@@ -21,7 +21,7 @@ To be clear, the dates on this website are just for easy reference, but the auth
   <td><b>NUS Week 1</b><br />Mon, 10 Aug
   </td>
   <td>Administrivia and Paradigms of Learning</td>
-  <td>Thu, 13 Aug 12:00-14:00: In-class session
+  <td>· Thu, 13 Aug 12:00-14:00: In-class session via Zoom
   </td>
 </tr>
 <tr>
@@ -47,7 +47,7 @@ To be clear, the dates on this website are just for easy reference, but the auth
   <td>Linear Classifiers and Logistic Regression
   <br /><em>T02: Concept Learning, Naïve Bayes and k-Nearest Neighbors</em>
   </td>
-  <td>Fri, 4 Sep 23:59: Project Proposals Due
+  <td>· Fri, 4 Sep 23:59: Project Proposals Due
   </td>
 </tr>
 <tr>
@@ -57,7 +57,7 @@ To be clear, the dates on this website are just for easy reference, but the auth
   <br />
   <em>T03: Linear Classifiers and Logistic Regression</em>
   </td>
-  <td>Fri, 11 Sep 23:59: Peer Grading of Project Proposals Due
+  <td>· Fri, 11 Sep 23:59: Peer Grading of Project Proposals Due
   </td>
 </tr>
 <tr>
@@ -82,8 +82,8 @@ To be clear, the dates on this website are just for easy reference, but the auth
   </td>
   <td>Reinforcement Learning and Exam 1
   </td>
-  <td>Thu, 1 Oct 11:00-12:00: In-class Exam 1
-  <br />28 Sep-2 Oct: Interim Project Consultations with Staff
+  <td>· Mon, 28 Sep 16:00-18:00: In-class Exam 1
+  <br />· 28 Sep-2 Oct: Interim Project Consultations with Staff
   </td>
 </tr>
 <tr>
@@ -92,7 +92,7 @@ To be clear, the dates on this website are just for easy reference, but the auth
   <td>Neural Networks
   <br /><em>T05: Regularization and Validation</em>
   </td>
-  <td>5-9 Oct, Interim Project Consultations with Staff
+  <td>· 5-9 Oct, Interim Project Consultations with Staff
   </td>
 </tr>
 <tr>
@@ -101,7 +101,7 @@ To be clear, the dates on this website are just for easy reference, but the auth
   <td>Deep Learning
   <br /><em>T06: Reinforcement Learning</em>
   </td>
-  <td>STePS teams: 12-16 Oct, 2nd Project Consultations with Staff
+  <td>· STePS teams: 12-16 Oct, 2nd Project Consultations with Staff
   </td>
 </tr>
 <tr>
@@ -110,8 +110,8 @@ To be clear, the dates on this website are just for easy reference, but the auth
   <td>Decision Trees and Ensembles
   <br /><em>T07: Neural Networks</em>
   </td>
-  <td>STePS teams: 19-23 Oct, 2nd Project Consultations with Staff
-  <br />Non-STePS teams: Fri, 23 Oct 23:59: Project Posters and Videos Due
+  <td>· STePS teams: 19-23 Oct, 2nd Project Consultations with Staff
+  <br />· Non-STePS teams: Fri, 23 Oct 23:59: Project Posters and Videos Due
   </td>
 </tr>
 <tr>
@@ -120,8 +120,8 @@ To be clear, the dates on this website are just for easy reference, but the auth
   <td>Unsupervised ML: k Means and Expectation Maximization
   <br /><em>T08: Deep Learning</em>
   </td>
-  <td>Non-STePS teams: Poster Presentations to Staff
-  <br />Non-STePS teams: Fri, 30 Oct 23:59: Peer grading of the Non-STePS Project Posters and Videos Due
+  <td>· Non-STePS teams: Poster Presentations to Staff
+  <br />· Non-STePS teams: Fri, 30 Oct 23:59: Peer grading of the Non-STePS Project Posters and Videos Due
   </td>
 </tr>
 <tr>
@@ -130,7 +130,7 @@ To be clear, the dates on this website are just for easy reference, but the auth
   <td>Machine Learning Ethics
   <br /><em>T09: Decision Trees and Ensembles</em>
   </td>
-  <td>STePS teams: Wed, 4 Nov 18:00: Project Posters and Videos Due
+  <td>· STePS teams: Wed, 4 Nov 18:00: Project Posters and Videos Due
   </td>
 </tr>
 <tr>
@@ -140,9 +140,9 @@ To be clear, the dates on this website are just for easy reference, but the auth
   <br /><em>T10: Unsupervised ML</em>
   </td>
   <td>
-    STePS teams: Wed, 11 Nov 18:00-22:00: Participation on evening of <a href="http://isteps.comp.nus.edu.sg/event/17th-steps/module/CS3244">17th STePS</a>
-    <br />Thu, 12 Nov 11:00-12:00: In-class Exam 2
-    <br />STePS teams: Fri, 13 Nov 23:59: Peer grading of peer STePS Project Posters and Videos Due
+    · STePS teams: Wed, 11 Nov 18:00-22:00: Participation on evening of <a href="http://isteps.comp.nus.edu.sg/event/17th-steps/module/CS3244">17th STePS</a>
+    <br />· Mon, 9 Nov 16:00-18:00: In-class Exam 2
+    <br />· STePS teams: Fri, 13 Nov 23:59: Peer grading of peer STePS Project Posters and Videos Due
     <br />All teams: Fri, 13 Nov 23:59: Project Reports Due
   </td>
 </tr>
