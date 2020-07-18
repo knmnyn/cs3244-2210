@@ -29,7 +29,7 @@ To be clear, the dates on this website are just for easy reference, but the auth
   </td>
   <td>Concept Learning
   </td>
-  <td>Wed, 19 Aug 23:59: Form subteams of Size 3
+  <td>· Wed, 19 Aug 23:59: Form subteams of Size 3
   </td>
 </tr>
 <tr>
