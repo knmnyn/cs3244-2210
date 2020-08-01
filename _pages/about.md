@@ -195,14 +195,6 @@ Questions about prerequisities and waivers are handled centrally by the departme
 
 <div class="tutor__profile">
   <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
-  <img src="images/bio-photo.jpg" width="120"><BR/>
-  <strong>Achal RAYAKAR</strong>
-  <BR/>
-  <A HREF="mailto:achal@u.nus.edu">achal@u.nus.edu</A><BR/>
-</div>
-
-<div class="tutor__profile">
-  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
   <img src="images/sreyans.jpg"/><BR/>
   <strong>Sreyans SIPANI</strong>
   <BR/>
