@@ -158,7 +158,7 @@ Questions about prerequisities and waivers are handled centrally by the departme
   <img src="images/bio-photo.jpg" width="120"><BR/>
   <strong>Marcus LEE</strong>
   <BR/>
-  <A HREF="mailto:marcus_lee@u.nus.edu">achal@u.nus.edu</A><BR/>
+  <A HREF="mailto:marcus_lee@u.nus.edu">marcus_lee@u.nus.edu</A><BR/>
 </div>
 
 <div class="tutor__profile"> 
