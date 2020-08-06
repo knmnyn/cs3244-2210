@@ -18,14 +18,14 @@ To be clear, the dates on this website are just for easy reference, but the auth
 <thead class="thead-inverse"><tr><th>Date</th><th>Description</th><th>Deadlines</th></tr></thead>
 <tbody>
 <tr>
-  <td><b>NUS Week 1</b><br />Mon, 10 Aug
+  <td><b>NUS Week 01</b><br />Mon, 10 Aug
   </td>
   <td>Administrivia and Paradigms of Learning</td>
   <td>· Thu, 13 Aug 12:00-14:00: In-class session via Zoom
   </td>
 </tr>
 <tr>
-  <td><b>Week 2</b><br />17 Aug
+  <td><b>Week 02</b><br />17 Aug
   </td>
   <td>Concept Learning
   </td>
@@ -33,7 +33,7 @@ To be clear, the dates on this website are just for easy reference, but the auth
   </td>
 </tr>
 <tr>
-  <td><b>Week 3</b><br />24 Aug
+  <td><b>Week 03</b><br />24 Aug
   </td>
   <td>Naïve Bayes and k-Nearest Neighbors
   <em><br />T01: Paradigms of Learning</em>
@@ -42,7 +42,7 @@ To be clear, the dates on this website are just for easy reference, but the auth
   </td>
 </tr>
 <tr>
-  <td><b>Week 4</b><br />31 Aug
+  <td><b>Week 04</b><br />31 Aug
   </td>
   <td>Linear Classifiers and Logistic Regression
   <br /><em>T02: Concept Learning, Naïve Bayes and k-Nearest Neighbors</em>
@@ -51,7 +51,7 @@ To be clear, the dates on this website are just for easy reference, but the auth
   </td>
 </tr>
 <tr>
-  <td><b>Week 5</b><br />7 Sep
+  <td><b>Week 05</b><br />7 Sep
   </td>
   <td>Bias and Variance and Overfitting
   <br />
@@ -61,7 +61,7 @@ To be clear, the dates on this website are just for easy reference, but the auth
   </td>
 </tr>
 <tr>
-  <td><b>Week 6</b><br />14 Sep
+  <td><b>Week 06</b><br />14 Sep
   </td>
   <td>Regularization and Validation
   <br /><em>T04: Bias, Variance and Overfitting</em>
@@ -70,7 +70,7 @@ To be clear, the dates on this website are just for easy reference, but the auth
   </td>
 </tr>
 <tr>
-  <td><b>Recess Week</b><br />21 Sep
+  <td><b>Week Recess</b><br />21 Sep
   </td>
   <td>
   </td>
@@ -78,7 +78,7 @@ To be clear, the dates on this website are just for easy reference, but the auth
   </td>
 </tr>
 <tr>
-  <td><b>Week 7</b><br />28 Sep
+  <td><b>Week 07</b><br />28 Sep
   </td>
   <td>Reinforcement Learning and Exam 1
   </td>
@@ -87,7 +87,7 @@ To be clear, the dates on this website are just for easy reference, but the auth
   </td>
 </tr>
 <tr>
-  <td><b>Week 8</b><br />5 Oct
+  <td><b>Week 08</b><br />5 Oct
   </td>
   <td>Neural Networks
   <br /><em>T05: Regularization and Validation</em>
@@ -96,7 +96,7 @@ To be clear, the dates on this website are just for easy reference, but the auth
   </td>
 </tr>
 <tr>
-  <td><b>Week 9</b><br />12 Oct
+  <td><b>Week 09</b><br />12 Oct
   </td>
   <td>Deep Learning
   <br /><em>T06: Reinforcement Learning</em>
@@ -130,7 +130,7 @@ To be clear, the dates on this website are just for easy reference, but the auth
   <td>Machine Learning Ethics
   <br /><em>T09: Decision Trees and Ensembles</em>
   </td>
-  <td>· STePS teams: Wed, 4 Nov 18:00: Project Posters and Videos Due
+  <td>· STePS teams: Fri, 6 Nov 23:59: Project Posters and Videos Due
   </td>
 </tr>
 <tr>
