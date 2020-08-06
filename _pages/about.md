@@ -139,6 +139,14 @@ Questions about prerequisities and waivers are handled centrally by the departme
 
 <div class="tutor__profile">
   <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
+  <img src="images/Tianyuan.jpg"/><BR/>
+  <strong>FU Tianyuan</strong>
+  <BR/>
+  <A HREF="mailto:futianyuan@u.nus.edu">futianyuan@u.nus.edu</A><BR/>
+</div>
+
+<div class="tutor__profile">
+  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
   <img src="images/Zhenfeng.png"/><BR/>
   <strong>HE Zhenfeng</strong>
   <BR/>
@@ -231,14 +239,6 @@ Questions about prerequisities and waivers are handled centrally by the departme
   <strong>ZHU Tongyao</strong>
   <BR/>
   <A HREF="mailto:tongyao.zhu@u.nus.edu">tongyao.zhu@u.nus.edu</A><BR/>
-</div>
-
-<div class="tutor__profile">
-  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
-  <img src="images/Tianyuan.jpg"/><BR/>
-  <strong>FU Tianyuan</strong>
-  <BR/>
-  <A HREF="mailto:futianyuan@u.nus.edu">futianyuan@u.nus.edu</A><BR/>
 </div>
 
 </div>
