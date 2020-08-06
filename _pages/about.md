@@ -16,7 +16,7 @@ redirect_from:
 </P>
 <P>&nbsp;
 </P>
-    
+​    
 
 This module introduces basic concepts and algorithms in machine learning and neural networks. The main reason for studying computational learning is to make better use of powerful computers to learn knowledge (or regularities) from the raw data. The ultimate objective is to build self-learning systems to relieve human from some of already-too-many programming tasks. At the end of the course, students are expected to be familiar with the theories and paradigms of computational learning, and capable of implementing basic learning systems.
 
@@ -231,6 +231,14 @@ Questions about prerequisities and waivers are handled centrally by the departme
   <strong>ZHU Tongyao</strong>
   <BR/>
   <A HREF="mailto:tongyao.zhu@u.nus.edu">tongyao.zhu@u.nus.edu</A><BR/>
+</div>
+
+<div class="tutor__profile">
+  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
+  <img src="images/Tianyuan.jpg"/><BR/>
+  <strong>FU Tianyuan</strong>
+  <BR/>
+  <A HREF="mailto:futianyuan@u.nus.edu">futianyuan@u.nus.edu</A><BR/>
 </div>
 
 </div>
