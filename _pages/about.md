@@ -85,6 +85,22 @@ Questions about prerequisities and waivers are handled centrally by the departme
 
 <div class="tutor__profile">
   <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
+  <img src="images/alexfoo.jpg"/><BR/>
+  <strong>Alex FOO</strong>
+  <BR/>
+  <A HREF="mailto:alexfoo@comp.nus.edu.sg">alexfoo@comp.nus.edu.sg</A><BR/>
+</div>
+
+<div class="tutor__profile">
+  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
+  <img src="images/abhinav.png"/><BR/>
+  <strong>Abhinav Ramesh KASHYAP</strong>
+  <BR/>
+  <A HREF="mailto:abhinav@comp.nus.edu.sg">abhinav@comp.nus.edu.sg</A><BR/>
+</div>
+
+<div class="tutor__profile">
+  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
   <img src="images/HuHengchang.jpg"/><BR/>
   <strong>HU Hengchang</strong>
   <BR/>
@@ -113,22 +129,6 @@ Questions about prerequisities and waivers are handled centrally by the departme
   <strong>Martin STROBEL</strong>
   <BR/>
   <A HREF="mailto:mstrobel@comp.nus.edu.sg">mstrobel@comp.nus.edu.sg</A><BR/>
-</div>
-
-<div class="tutor__profile">
-  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
-  <img src="images/abhinav.png"/><BR/>
-  <strong>Abhinav Ramesh Kashyap</strong>
-  <BR/>
-  <A HREF="mailto:abhinav@comp.nus.edu.sg">abhinav@comp.nus.edu.sg</A><BR/>
-</div>
-
-<div class="tutor__profile">
-  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
-  <img src="images/alexfoo.png"/><BR/>
-  <strong>Alex FOO</strong>
-  <BR/>
-  <A HREF="mailto:alexfoo@comp.nus.edu.sg">alexfoo@comp.nus.edu.sg</A><BR/>
 </div>
 
 </div>
