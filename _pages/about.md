@@ -51,6 +51,8 @@ Tutorial Sessions (tentative; as reported by LumiNUS ca. 17 Jun 2020):
 8. T08. Wednesdays, 10:00-11:00
 9. T09. Tuesdays, 16:00-17:00
 10. T10. Tuesdays, 17:00-18:00
+11. T11. Tuesdays, 12:00-13:00 (new as of 11 Aug 2020)
+12. T12. Tuesdays, 13:00-14:00 (new as of 11 Aug 2020)
 
 ## Course Characteristics
 
