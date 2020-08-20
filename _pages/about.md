@@ -95,6 +95,14 @@ Questions about prerequisities and waivers are handled centrally by the departme
 
 <div class="tutor__profile">
   <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
+  <img src="images/neamul.jpg"/><BR/>
+  <strong>Mohammed Neamul KABIR</strong>
+  <BR/>
+  <A HREF="mailto:neamul@comp.nus.edu.sg">neamul@comp.nus.edu.sg</A><BR/>
+</div>
+
+<div class="tutor__profile">
+  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
   <img src="images/abhinav.png"/><BR/>
   <strong>Abhinav Ramesh KASHYAP</strong>
   <BR/>
