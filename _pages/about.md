@@ -65,7 +65,9 @@ Linear algebra, calculus, probability and statistics and introductory computer p
 
 Questions about prerequisities and waivers are handled centrally by the department. Please contact [OOI Wei Tsang)](mailto:ooiwt@comp.nus.edu.sg) to describe your case and seek any waivers regarding prerequisities.
 
-**Instructors**:
+## Instructors
+
+<div style="text-align:center; display:grid; grid-template-columns: 1fr 1fr 1fr; margin-top:30px;">
 
 <div class="author__profile">
   <img src="images/kanmy.jpg"/>
@@ -75,6 +77,19 @@ Questions about prerequisities and waivers are handled centrally by the departme
     <i class="fas fa-building"></i> AS6 05-12<br/><br/>
     Office hours are held (before and after class), but more commonly by appointment. Emails to me as a default are assumed to be public, and my replies and your anonymized email will likely be posted to Coursemology. Please let me know if you do not want the contents of your email posted; I will be happy to honor your requests.
   </div>
+</div>
+
+<div class="author__profile">
+  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
+  <img src="images/chris-120.jpg"/><BR/>
+  <div>
+    <strong>Christian VON DER WETH</strong><BR/>
+    <A HREF="mailto:chris@comp.nus.edu.sg"><i class="fas fa-envelope"></i> chris@comp.nus.edu.sg</A><BR/>
+    <i class="fas fa-building"></i> TBA<br/><br/>
+    Office hours: TBA  
+  </div>
+</div>    
+
 </div>
 
 ## Teaching Assistants
@@ -140,16 +155,7 @@ Questions about prerequisities and waivers are handled centrally by the departme
   <BR/>
   <A HREF="mailto:mstrobel@comp.nus.edu.sg">mstrobel@comp.nus.edu.sg</A><BR/>
 </div>
- 
-   
-<div class="tutor__profile">
-  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
-  <img src="images/chris-120.jpg"/><BR/>
-  <strong>Christian VON DER WETH</strong>
-  <BR/>
-  <A HREF="mailto:chris@comp.nus.edu.sg">chris@comp.nus.edu.sg</A><BR/>
-</div>    
-
+    
 </div>
 
 ### Undergraduate Teaching Assistants
