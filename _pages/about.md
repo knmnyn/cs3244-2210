@@ -69,7 +69,7 @@ Questions about prerequisities and waivers are handled centrally by the departme
 
 <div style="text-align:center; display:grid; grid-template-columns: 1fr 1fr 1fr; margin-top:30px;">
 
-<div class="author__profile">
+<div class="tutor__profile">
   <img src="images/kanmy.jpg"/>
   <div>
     <strong>Min-Yen KAN</strong><br/>
@@ -79,7 +79,7 @@ Questions about prerequisities and waivers are handled centrally by the departme
   </div>
 </div>
 
-<div class="author__profile">
+<div class="tutor__profile">
   <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
   <img src="images/chris-120.jpg"/><BR/>
   <div>
