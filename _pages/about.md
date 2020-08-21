@@ -140,6 +140,15 @@ Questions about prerequisities and waivers are handled centrally by the departme
   <BR/>
   <A HREF="mailto:mstrobel@comp.nus.edu.sg">mstrobel@comp.nus.edu.sg</A><BR/>
 </div>
+ 
+   
+<div class="tutor__profile">
+  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
+  <img src="images/chris-120.jpg"/><BR/>
+  <strong>Christian VON DER WETH</strong>
+  <BR/>
+  <A HREF="mailto:chris@comp.nus.edu.sg">chris@comp.nus.edu.sg</A><BR/>
+</div>    
 
 </div>
 
