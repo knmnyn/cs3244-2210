@@ -140,9 +140,9 @@ To be clear, the dates on this website are just for easy reference, but the auth
   <br /><em>T10: Unsupervised ML</em>
   </td>
   <td>
-    · Mon, 9 Nov 16:00-17:00: In-class Exam 2A
+    · Mon, 9 Nov 16:00-18:00: In-class Exam 2 (Updated)
     <br />· STePS teams: Wed, 11 Nov 15:00-20:00: (Updated) Participation on afternoon of <a href="http://isteps.comp.nus.edu.sg/event/17th-steps/module/CS3244">17th STePS</a>
-    <br />· Thu, 12 Nov 11:00-12:00: In-class Exam 2B
+    <br />· (Changed) <s>Thu, 12 Nov 11:00-12:00: In-class Exam 2B</s>
     <br />· STePS teams: Fri, 13 Nov 23:59: Peer grading of peer STePS Project Posters and Videos Due
     <br />All teams: Fri, 13 Nov 23:59: Project Reports Due
   </td>
