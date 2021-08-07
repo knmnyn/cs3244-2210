@@ -48,6 +48,7 @@ $type-size-8                : 0.625em;  // ~10px
    ========================================================================== */
 
 /* Min: https://color.adobe.com/Parma-Violets-color-theme-7676755 */
+/* Min: DC1F1F 21/22 */
 
 $gray                       : #7a8288;
 $dark-gray                  : mix(#000, $gray, 40%);
@@ -56,7 +57,8 @@ $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
 $body-color                 : #fff;
-$background-color           : #510E80; /* #fff */
+/* $background-color           : #510E80; /* #fff */
+$background-color           : #DC1F1F;
 $code-background-color      : #613480; /* #fafafa */
 $code-background-color-dark : $light-gray;
 $text-color                 : $lighter-gray; /* $dark-gray; */
