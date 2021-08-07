@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-#### NUS SoC, 2021/2022, Semester II, Hybrid: Physically Mondays, 16:00-18:00 (i3 Auditorium) and Thursdays, 11:00-12:00 (LT15); Virtually on Zoom via LumiNUS Conferencing.
+#### NUS SoC, 2021/2022, Semester I, Hybrid: Physically Mondays, 16:00-18:00 (i3 Auditorium) and Thursdays, 11:00-12:00 (LT15); Virtually on Zoom via LumiNUS Conferencing.
 <!-- #### NUS SoC, 2020/2021, Semester I, Time and Venue: fully online via Zoom and YouTube. Officially from LumiNUS: Mondays, 16:00-18:00 and Thursdays, 11:00-12:00. -->
 
 <P>&nbsp;
