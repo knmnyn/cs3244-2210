@@ -47,8 +47,8 @@ $type-size-8                : 0.625em;  // ~10px
    Colors
    ========================================================================== */
 
-/* Min: https://color.adobe.com/Parma-Violets-color-theme-7676755 */
-/* Min: DC1F1F 21/22 */
+/* Min: https://color.adobe.com/Parma-Violets-color-theme-7676755 AY2021S1 */
+/* Min: DC1F1F AY2122S1 */
 
 $gray                       : #7a8288;
 $dark-gray                  : mix(#000, $gray, 40%);
@@ -57,8 +57,8 @@ $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
 $body-color                 : #fff;
-/* $background-color           : #510E80; /* #fff */
-$background-color           : #DC1F1F;
+$background-color           : #510E80; /* #fff */
+/* AY2122S1 $background-color           : #DC1F1F; */
 $code-background-color      : #613480; /* #fafafa */
 $code-background-color-dark : $light-gray;
 $text-color                 : $lighter-gray; /* $dark-gray; */
