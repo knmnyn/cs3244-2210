@@ -18,26 +18,21 @@ redirect_from:
 <P>&nbsp;
 </P>
 
-<div style="color:red; background-color:pink"><p>Aug 2021: This page is for a previous semester.  <a href="http://www.comp.nus.edu.sg/~cs3244">Go to the current webpage for the course</A>.</p></div>
-
 This module introduces basic concepts and algorithms in machine learning and neural networks. The main reason for studying computational learning is to make better use of powerful computers to learn knowledge (or regularities) from the raw data. The ultimate objective is to build self-learning systems to relieve human from some of already-too-many programming tasks. At the end of the course, students are expected to be familiar with the theories and paradigms of computational learning, and capable of implementing basic learning systems.
-
-We will be using the [Coursemology](http://coursemology.org/courses/1870) Learning Management System for the administration of this course (the Coursemology course will be published in due time).
 
 N.B. We will be teaching and using the Python programming language throughout this class and Jupyter Notebook via Google Colab. We will using Python 3.x, and largely the SciKitLearn and PyTorch libraries.
 
 ## Class Structure
 
-This class is a _flipped_ class, a variant of a blended class. You’ll watch the first part of the video lecture before coming to tutorial, and then watch a subsequent video recorded lecture post-tutorial, to further reinforce the tutorial.
+This class is a synchronous hybrid class, a variant of a blended class. You'll need to be synchronously present in the lecture (either in the lecture theatre or online in Zoom) to participate for class participation marks. 
 
-**Important**: Lecture slots are for e-learning, and for occasional assessments (in Weeks 07 and 13).  
-Do ensure that you have the lecture times free in your schedule to be available for scheduled exams.  There will no be alternate exam arrangements.
+**Important**: Do ensure that you have the lecture times free in your schedule, as the class is synchronous.  There will no be alternate exam arrangements.
 
-For most of the Thursdays sessions, we will have a synchrnous help session where Min will field questions from students on questions, concerns and doubts you have on the lecture materials or other components of the course.
+For most of the Thursdays sessions, we will have a synchronous help session where Min and Brian will field questions from students on questions, concerns and doubts you have on the lecture materials or other components of the course.
 
 ### Tutorial Sessions
 
-There will be tutorials for this class starting in Week 03. As the class is flipped, these sessions will be the primary means by which we touch base with you and get to know you personally. Please do attend these sessions via Zoom, as they will not be webcasted (although tutorial solutions will be distributed, you should come to the sessions to get the complete picture, and to be a part of the class).
+There will be tutorials for this class starting in Week 03. As the class is hybird, these sessions will be the complementary means by which we touch base with you and get to know you personally. Please do attend these sessions via Zoom, as they will not be webcasted (although tutorial solutions will be distributed, you should come to the sessions to get the complete picture, and to be a part of the class).
 
 These tutorial session timings still subject to change. Please see NUSMods for the most up-to-date details. As an enrolled student, you are entitled to one tutorial placement, and need to attend that slot even if not optimal for you. Nicely, all of the tutorials slots come before (Monday-Wednesday), the second class lecture slot on Thursdays.
 
