@@ -7,9 +7,9 @@ author_profile: false
 
 We note that Machine Learning is a subject with a lot of very good expertise and tutorials out there. It is best to tap on these resources, as they have good production quality and are more condensed, possibly saving you time. However, we still think in-class lecture is helpful to build better connection with the materials for certain topics.
 
-This class will be _flipped_; i.e., you will be asked to watch videos on YouTube explaining the concepts on your own first (the pre videos), and then after the appropriate tutorial session where staff will guide you through the pertinent exercises and reinforcement activities. Post-tutorial, you will be expected to complete the second half of the videos (the post videos) and complete a set of mastery exercises in Coursemology.  Note that the dates in the _date_ column below are indexed for Mondays (the day of the first class lecture according to the registrar).
-
-To be clear, the dates on this website are just for easy reference, but the authoritative dates will always be in [Coursemology](https://coursemology.org/courses/1870).  Take note of any conflicting deadlines and let us know.
+This module will be taught synchronously through Zoom or through live in-place lecture at the LT (where allowed). This iteration will not be conducted in a flipped style, unlike previous iterations.
+Recordings of the class will be taken, and are likely (but not guaranteed) to be offered in the Conferencing component. Students are expected to be available for both lecture hours and their respective tutorial slots. Tutorials will involve a mix of activities; activities are likely to vary week to week. 
+Note that the dates in the date column below are indexed for Mondays (the day of the first class lecture according to the registrar)
 
 <!--- For those who find the pace of the videos too fast or needing a bit more time to digest the materials, we will offer an in-class help session during the lecture slot (i.e., Thursdays 12:00-14:00) on the remaining weeks (Weeks 2-6 and 8-12). This is completely optional (not counting against your workload), and we will not be introducing any material for the help sessions. It is just voluntary help from all of us on the staff. -->
 
@@ -18,142 +18,145 @@ To be clear, the dates on this website are just for easy reference, but the auth
 <thead class="thead-inverse"><tr><th>Date</th><th>Description</th><th>Deadlines</th></tr></thead>
 <tbody>
 <tr>
-  <td><b>NUS Week 01</b><br />Mon, 10 Aug
+  <td><b>NUS Week 01</b><br />Mon, 09 Aug
   </td>
-  <td>Administrivia and Paradigms of Learning</td>
-  <td>· Thu, 13 Aug 12:00-14:00: In-class session via Zoom
-  </td>
-</tr>
-<tr>
-  <td><b>Week 02</b><br />17 Aug
-  </td>
-  <td>Concept Learning
-  </td>
-  <td>· Fri, 21 Aug 23:59: Form subteams of Size 3
-  </td>
-</tr>
-<tr>
-  <td><b>Week 03</b><br />24 Aug
-  </td>
-  <td>Naïve Bayes and k-Nearest Neighbors
-  <em><br />T01: Paradigms of Learning</em>
+  <td>Administrivia and ML Pipeline</td>
   <td>
   </td>
+</tr>
+<tr>
+  <td><b>Week 02</b><br />16 Aug
+  </td>
+  <td>Paradigms of ML and kNN
+  </td>
+  <td>· Sun, 22 Aug 23:59: Mini-Team Formation
   </td>
 </tr>
 <tr>
-  <td><b>Week 04</b><br />31 Aug
+  <td><b>Week 03</b><br />23 Aug
   </td>
-  <td>Linear Classifiers and Logistic Regression
-  <br /><em>T02: Concept Learning, Naïve Bayes and k-Nearest Neighbors</em>
+  <td>Decision Trees
+  <em><br />T01: Paradigms of ML and kNN</em>
   </td>
-  <td>· Fri, 4 Sep 23:59: Project Proposals Due
+  <td>· Sun, 29 Aug 23:59: Team Formation (By staff)
   </td>
 </tr>
 <tr>
-  <td><b>Week 05</b><br />7 Sep
+  <td><b>Week 04</b><br />30 Aug
   </td>
-  <td>Bias and Variance and Overfitting
+  <td>Linear Models
+  <br /><em>T02: Decision Trees</em>
+  </td>
+  <td>· Sun, 5 Sep 23:59: Assignment Due
+  </td>
+</tr>
+<tr>
+  <td><b>Week 05</b><br />6 Sep
+  </td>
+  <td>Bias and Variance
   <br />
-  <em>T03: Linear Classifiers and Logistic Regression</em>
+  <em>T03: Linear Models</em>
   </td>
-  <td>· Fri, 11 Sep 23:59: Peer Grading of Project Proposals Due
+  <td>· Sun, 12 Sep 23:59: Project Proposals Due
   </td>
 </tr>
 <tr>
-  <td><b>Week 06</b><br />14 Sep
+  <td><b>Week 06</b><br />13 Sep
   </td>
   <td>Regularization and Validation
-  <br /><em>T04: Bias, Variance and Overfitting</em>
+  <br /><em>T04: Bias and Variance, Regularization and Validation</em>
+  </td>
+  <td>· Sun, 19 Sep 23:59: Project Proposal Peer Critique Due
+  </td>
+</tr>
+<tr>
+  <td><b>Recess Week</b><br />20 Sep
+  </td>
+  <td>
   </td>
   <td>
   </td>
 </tr>
 <tr>
-  <td><b>Week Recess</b><br />21 Sep
+  <td><b>Week 07</b><br />27 Sep
   </td>
-  <td>
+  <td>Evaluation Metrics and Midterm
   </td>
-  <td>
-  </td>
-</tr>
-<tr>
-  <td><b>Week 07</b><br />28 Sep
-  </td>
-  <td>Reinforcement Learning and Exam 1
-  </td>
-  <td>· Mon, 28 Sep 16:00-18:00: In-class Exam 1
-  <br />· 28 Sep-2 Oct: Interim Project Consultations with Staff
+  <td>· Mon, 27 Sep 16:00–17:00: Midterm Exam
+  <br />· 27 Sep-1 Oct: Project
   </td>
 </tr>
 <tr>
-  <td><b>Week 08</b><br />5 Oct
+  <td><b>Week 08</b><br />4 Oct
   </td>
-  <td>Neural Networks
-  <br /><em>T05: Regularization and Validation</em>
+  <td>Preprocessing and Visualization
+  <br /><em>T05: Evaluation Metrics</em>
   </td>
-  <td>· 5-9 Oct, Interim Project Consultations with Staff
+  <td>· Project	
   </td>
 </tr>
 <tr>
-  <td><b>Week 09</b><br />12 Oct
+  <td><b>Week 09</b><br />11 Oct
+  </td>
+  <td>Perceptron and Neural Networks
+  <br /><em>T06: Preprocessing and Visualization</em>
+  </td>
+  <td>· Project
+  </td>
+</tr>
+<tr>
+  <td><b>Week 10</b><br />18 Oct
   </td>
   <td>Deep Learning
-  <br /><em>T06: Reinforcement Learning</em>
+  <br /><em>T07: Perceptron and Neural Networks</em>
   </td>
-  <td>· STePS teams: 12-16 Oct, 2nd Project Consultations with Staff
-  </td>
-</tr>
-<tr>
-  <td><b>Week 10</b><br />19 Oct
-  </td>
-  <td>Decision Trees and Ensembles
-  <br /><em>T07: Neural Networks</em>
-  </td>
-  <td>· STePS teams: 19-23 Oct, 2nd Project Consultations with Staff
-  <br />· Non-STePS teams: Fri, 23 Oct 23:59: Project Posters and Videos Due
+  <td>· 18-22 Oct, Individual Team Project Consulting
   </td>
 </tr>
 <tr>
-  <td><b>Week 11</b><br />26 Oct
+  <td><b>Week 11</b><br />25 Oct
   </td>
-  <td>Unsupervised ML: k Means and Expectation Maximization
+  <td>Unsupervised ML
   <br /><em>T08: Deep Learning</em>
   </td>
-  <td>· Non-STePS teams: Poster Presentations to Staff
-  <br />· Non-STePS teams: Fri, 30 Oct 23:59: Peer grading of the Non-STePS Project Posters and Videos Due
+  <td>· 25-29 Oct, Individual Team Project Consulting
   </td>
 </tr>
 <tr>
-  <td><b>Week 12</b><br />2 Nov
+  <td><b>Week 12</b><br />1 Nov
   </td>
-  <td>Machine Learning Ethics
-  <br /><em>T09: Decision Trees and Ensembles</em>
+  <td>Open Project Consulting
+  <br /><em>T09: Unsupervised ML</em>
   </td>
-  <td>· STePS teams: Fri, 6 Nov 23:59: Project Posters and Videos Due
+  <td>· 1-5 Nov, Individual Team Project Consulting
   </td>
 </tr>
 <tr>
-  <td><b>Week 13</b><br />9 Nov
+  <td><b>Week 13</b><br />8 Nov
   </td>
-  <td>Revision and Exam 2
-  <br /><em>T10: Unsupervised ML</em>
+  <td>ML Ethics and Revision
+  <br /><em>T10: Practice Exams</em>
   </td>
   <td>
-    · Mon, 9 Nov 16:00-18:00: In-class Exam 2 (Updated)
-    <br />· STePS teams: Wed, 11 Nov 15:00-20:00: (Updated) Participation on afternoon of <a href="http://isteps.comp.nus.edu.sg/event/17th-steps/module/CS3244">17th STePS</a>
-    <br />· (Changed) <s>Thu, 12 Nov 11:00-12:00: In-class Exam 2B</s>
-    <br />· STePS teams: Fri, 13 Nov 23:59: Peer grading of peer STePS Project Posters and Videos Due
-    <br />All teams: Fri, 13 Nov 23:59: Project Reports Due
+    · Project
   </td>
 </tr>
 <tr>
-  <th><b>Exam Week</b><br />TBA
-  </th>
-  <th>No Examinations.  100% Continuous Assessment.
-  </th>
-  <th>
-  </th>
+  <td><b>Reading Week</b><br />15 Nov
+  </td>
+  <td>
+  </td>
+  <td>
+  </td>
+</tr>
+<tr>
+  <td><b>Exam Week</b><br />22 Nov
+  </td>
+  <td>
+  </td>
+  <td>· Wed, 24 Nov 17:00-19:00: Final Exam
+  <br/>· Sun, 28 Nov 23:59: Recorded Project Presentation
+  </td>
 </tr>
 </tbody></table>
 
