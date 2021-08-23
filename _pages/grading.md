@@ -13,19 +13,21 @@ assessment milestones, inclusive of two exams. Both exam assessments will largel
 <table class="table table-striped" style="margin-left: auto; margin-right:auto">
   <thead class="thead-inverse"><tr><th>Description</th><th>Percentage</th></tr></thead>
   <tbody>
-    <tr><td>Exam 1 (Thu, 1 Oct 2020)</td><td>25%</td></tr>
-    <tr><td>Exam 2 (Thu, 12 Nov 2020)</td><td>25%</td></tr>
-    <tr><td>Machine Learning Project</td><td>35%</td></tr>
-    <tr><td>Weekly Python Notebook Assessments</td><td>10%</td></tr>
-    <tr><td>Participation</td><td>5%</td></tr>
+    <tr><td>Midterm Exam (Mon, 27 Sep 2021)</td><td>20%</td></tr>
+    <tr><td>Final Exam (Wed, 24 Nov 2021)</td><td>35%</td></tr>
+    <tr><td>Machine Learning Project</td><td>25%</td></tr>
+    <tr><td>Individual Assignment</td><td>10%</td></tr>
+    <tr><td>Participation (Tutorials, Pre-lecture and In-lecture Activities)</td><td>10%</td></tr>
     <tr><th><b>Total</b></th><th><b>100%</b></th></tr>
   </tbody>
 </table>
 
-This module is a flipped module, meaning that the lectures are online and
-done at your own pace through watching the appropriate pre-recorded videos.  Staff
-contact will be mostly conducted through Tutorials and Project
-Consultations (to be arranged individually per project group).
+This module will be taught synchronously through Zoom or through live in-place lecture at the LT (where allowed). 
+This iteration will not be conducted in a flipped style, unlike previous iterations. Recordings of the class will be taken, 
+and are likely (but not guaranteed) to be offered in the Conferencing component. 
+Students are expected to be available for both lecture hours and their respective tutorial slots. 
+Tutorials will involve a mix of activities; activities are likely to vary week to week.
+
 
 Lecture and tutorial attendance is not mandatory, but will help with
 your participation grade. Participation is very helpful for your
@@ -95,7 +97,7 @@ to Prof. Dymond at York University’s use of it in 1984.
 
 ## Late Submissions
 
-All homework assignments are due to Coursemology by 23:59:59
+All homework assignments are due by 23:59:59
 (Singapore time; SGT) on the due date. No exceptions without a medical
 certificate will be made. The following penalties will apply for late
 submissions:
