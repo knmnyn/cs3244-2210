@@ -47,7 +47,7 @@ Note that the dates in the date column below are indexed for Mondays (the day of
   <td>Linear Models
   <br /><em>T02: Decision Trees</em>
   </td>
-  <td>· Mon, 6 Sep 00:00: Assignment Due
+  <td>· Sun, 5 Sep 23:59: Assignment Due
   </td>
 </tr>
 <tr>
@@ -57,7 +57,7 @@ Note that the dates in the date column below are indexed for Mondays (the day of
   <br />
   <em>T03: Linear Models</em>
   </td>
-  <td>· Mon, 13 Sep 00:00: Project Proposals Due
+  <td>· Sun, 12 Sep 23:59: Project Proposals Due
   </td>
 </tr>
 <tr>
@@ -66,7 +66,7 @@ Note that the dates in the date column below are indexed for Mondays (the day of
   <td>Regularization and Validation
   <br /><em>T04: Bias and Variance, Regularization and Validation</em>
   </td>
-  <td>· Mon, 20 Sep 00:00: Project Proposal Peer Critique Due
+  <td>· Sun, 19 Sep 23:59: Project Proposal Peer Critique Due
   </td>
 </tr>
 <tr>
