@@ -11,47 +11,12 @@ Bryan Low (NUS) and Thorsten Joachims (Cornell)_
 A key part of the mastery of machine learning is practicing it,
 outside of the formal mathematical and statistical basis for the
 algorithms.  The **student projects** form an integral part of the
-assessment.  Student teams should have 5-6 members and will be
-assembled by the teaching staff.  There are two kinds of projects that
-can be done: _Self-Defined Projects_ and _Kaggle Competition
-Projects_. **Choose only one of the two**.
+assessment.  Student teams should have 5–6 members and will be
+assembled by the teaching staff.  
 
-### Self-Defined Projects
+## Curated Datasets
 
-The final project is intended to be a limited investigation in an area
-of machine learning of your choice. The purpose of the project is to
-enable you to study an area of your interest in greater detail in a
-practical way. The project can take on many forms, including but not
-limited to:
-
-* Projects that explore the application of machine learning ideas to an interesting “real-world” problem.
-* Projects that involve a theoretical or empirical study of aspects of a learning method or model.
-* Projects that do an experimental, comparative study of various machine learning methods.
-* Projects that extend or synergise with an existing project (could be from a member of your group), such as a honors year project. 
-<em>Caution: this type of project may lead to unequal contribution, due to members’ prior expertise.</em>
-
-Doing such a project gives you more flexibility and allows you work on
-something of your liking. However at the same time, this may
-potentially require some additional effort (depending on your problem)
-such as data collection or coming up with suitable baselines, and/or
-explicitly declaring what is being extended or novel for the scope
-proposed for the class.  The teaching staff will take these factors
-into account when grading.
-
-### Kaggle Competition Projects
-
-On the [Kaggle](http://kaggle.com) website, you can find and choose
-from a number of interesting machine learning competitions. Upon
-joining a competition, you will be provided with a training and
-testing sets, and your performance will be measured with specified
-metrics and ranked with other competitors on the web.
-
-Note that performance on the different metrics is not the critical
-factor in your grade on the project. While doing well on the
-competition helps, we primarily evaluate with respect to the
-(interesting) ideas your team employs to solve the task.  While the
-data is easier to obtain for such a project, there is less flexibility
-and more emphasis on coming up with interesting methods.
+Not all datasets out there are well calibrated to give beginners a mastery experience in machine learning.  We have curated a set of datasets that our staff feel are useful, sufficiently clean and align well with their particular task and type of data to work with.  These include datasets for studying time-series, text (natural language), images and videos (vision), as well as datasets exhibiting multiple modalities.
 
 ## Project Structure
 
@@ -59,8 +24,8 @@ and more emphasis on coming up with interesting methods.
 <thead class="thead-inverse"><tr><th>Description</th><th>Percentage</th></tr></thead>
 <tbody>
 <tr><td>Proposal</td><td>5%</td></tr>
-<tr><td>TA Consultation (Weeks 7--13)</td><td>Ungraded</td></tr>
-<tr><td>Instructor Consultation (Weeks 11--13)</td><td>Ungraded</td></tr>
+<tr><td>TA Consultation (Weeks 7–13)</td><td>Ungraded</td></tr>
+<tr><td>Instructor Consultation (Weeks 11–13)</td><td>Ungraded</td></tr>
 <tr><td>Final Project Presentation (Pre-recorded)</td><td>20%</td></tr>
 <tr><th><b>Total</b></th><th><b>25%</b></th></tr>
 </tbody>
