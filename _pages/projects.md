@@ -58,12 +58,11 @@ and more emphasis on coming up with interesting methods.
 <table class="table table-striped" style="margin-left: auto; margin-right:auto">
 <thead class="thead-inverse"><tr><th>Description</th><th>Percentage</th></tr></thead>
 <tbody>
-<tr><td>Proposal</td><td>3%</td></tr>
-<tr><td>Interim Presentation</td><td>6%</td></tr>
-<tr><td>Project Poster, Video and Poster Presentation</td><td>6 + 5 + 6 = 17%</td></tr>
-<tr><td>Final Project Report</td><td>9%</td></tr>
-<tr><td>Peer Grading (of three other projects) </td><td>(counts towards <i>Participation</i>)</td></tr>
-<tr><th><b>Total</b></th><th><b>35%</b></th></tr>
+<tr><td>Proposal</td><td>5%</td></tr>
+<tr><td>TA Consultation (Weeks 7--13)</td><td>Ungraded</td></tr>
+<tr><td>Instructor Consultation (Weeks 11--13)</td><td>Ungraded</td></tr>
+<tr><td>Final Project Presentation (Pre-recorded)</td><td>20%</td></tr>
+<tr><th><b>Total</b></th><th><b>25%</b></th></tr>
 </tbody>
 </table>
 <p><br /></p>
@@ -73,18 +72,7 @@ a formal project proposal.  The staff and your peers will give you
 feedback.  After the project proposal, you will be assigned a contact
 TA that you can use as a resource for questions and advice.
 
-In Weeks 7-8, the staff will meet with all teams for a first,
-mandatory consultation.  Your team will need to prepare a short
-presentation deck to present to the staff about the progress of your
-project.  Based on your team’s interest and the staff’s opinion on
-your project, you may elect to present at 17th STePS.  Teams that
-present at STePS will have a slightly different path and grading
-rubric for their project which involves additional consultation with
-staff and cumulates with a public presentation at STePS.
-
-Detailed grading rubrics for all phases of the project are provided as
-part of the project reporting templates provided in class, as well as
-through the accompanying project videos that are released on Week 1.
+Detailed grading rubrics for all phases of the project will be provided.
 The general grading metrics are as follows:
 
 * Originality
@@ -101,4 +89,4 @@ CS3244 projects as housed in SoC's STePS platform, from either
 [Semester I, AY 19/20](https://isteps.comp.nus.edu.sg/event/15th-steps/module/CS3244) or
 [Semester I, AY 18/19](https://isteps.comp.nus.edu.sg/event/13th-steps/module/CS3244).
 
-We also would like to thank [AWS Educate](https://aws.amazon.com/education/awseducate/students/) for their continued sponsorship of our course by allowing our course administrators to distribute 10,000 USD worth of AWS credits to project teams that declare that they will be using AWS platform for their course project work.
+We also would like to thank [Google Education]/) for their continued sponsorship of our course by allowing our course administrators to distribute 50 USD worth of Google Compute Engine credits to project teams that have applied for credit for their course project work.
