@@ -99,20 +99,9 @@ to Prof. Dymond at York University’s use of it in 1984.
 
 All homework assignments are due by 23:59:59
 (Singapore time; SGT) on the due date. No exceptions without a medical
-certificate will be made. The following penalties will apply for late
-submissions:
+certificate will be made. 
 
-* late within 1 hour: 10% reduction in grade;
-* late within 5 hours: 30% reduction in grade;
-* late within 1 day: 50% reduction in grade;
-* late within 5 days: 70% reduction in grade;
-* after 5 days: zero mark.
-
-These penalties are intentionally set severe to encourage students to
-turn in assignments on time. This in turns, means that your teaching
-staff can start and finish grading within a certain time period, and
-can help you get timely feedback on your work. Do not expect any type
-of preferential treatment if you turn in an assignment late.
+Late submissions are penalized as 5% off per day late, capped to a maximum deduction of 40% of the total marks.
 
 ## Assignment return policy and regrades
 
