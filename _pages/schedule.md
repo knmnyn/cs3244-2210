@@ -89,7 +89,7 @@ Note that the dates in the date column below are indexed for Mondays (the day of
 <tr>
   <td><b>Week 08</b><br />4 Oct
   </td>
-  <td>Preprocessing and Visualization
+  <td>Data Processing and Feature Engineering
   <br /><em>T05: Evaluation Metrics</em>
   </td>
   <td>· Project	
@@ -99,7 +99,7 @@ Note that the dates in the date column below are indexed for Mondays (the day of
   <td><b>Week 09</b><br />11 Oct
   </td>
   <td>Perceptron and Neural Networks
-  <br /><em>T06: Preprocessing and Visualization</em>
+  <br /><em>T06: Data Processng and Feature Engineering</em>
   </td>
   <td>· Project
   </td>
