@@ -107,7 +107,7 @@ Note that the dates in the date column below are indexed for Mondays (the day of
 <tr>
   <td><b>Week 10</b><br />18 Oct
   </td>
-  <td>Deep Learning
+  <td>Deep Learning and Explainable AI
   <br /><em>T07: Perceptron and Neural Networks</em>
   </td>
   <td>· 18-22 Oct, Individual Team Project Consulting
@@ -117,7 +117,7 @@ Note that the dates in the date column below are indexed for Mondays (the day of
   <td><b>Week 11</b><br />25 Oct
   </td>
   <td>Unsupervised ML
-  <br /><em>T08: Deep Learning</em>
+  <br /><em>T08: Deep Learning and Explainable AI</em>
   </td>
   <td>· 25-29 Oct, Individual Team Project Consulting
   </td>
