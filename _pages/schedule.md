@@ -13,7 +13,6 @@ Note that the dates in the date column below are indexed for Mondays (the day of
 
 <!--- For those who find the pace of the videos too fast or needing a bit more time to digest the materials, we will offer an in-class help session during the lecture slot (i.e., Thursdays 12:00-14:00) on the remaining weeks (Weeks 2-6 and 8-12). This is completely optional (not counting against your workload), and we will not be introducing any material for the help sessions. It is just voluntary help from all of us on the staff. -->
 
-
 <table class="table table-striped">
 <thead class="thead-inverse"><tr><th>Date</th><th>Description</th><th>Deadlines</th></tr></thead>
 <tbody>
@@ -80,10 +79,10 @@ Note that the dates in the date column below are indexed for Mondays (the day of
 <tr>
   <td><b>Week 07</b><br />27 Sep
   </td>
-  <td>Evaluation Metrics and Midterm
+  <td>Midterm and Evaluation Metrics  
   </td>
   <td>· Mon, 27 Sep 16:00–17:00: Midterm Exam
-  <br />· 27 Sep-1 Oct: Project
+  <br />
   </td>
 </tr>
 <tr>
@@ -92,7 +91,7 @@ Note that the dates in the date column below are indexed for Mondays (the day of
   <td>Data Processing and Feature Engineering
   <br /><em>T05: Evaluation Metrics</em>
   </td>
-  <td>· Project	
+  <td>
   </td>
 </tr>
 <tr>
@@ -101,13 +100,13 @@ Note that the dates in the date column below are indexed for Mondays (the day of
   <td>Perceptron and Neural Networks
   <br /><em>T06: Data Processng and Feature Engineering</em>
   </td>
-  <td>· Project
+  <td> 
   </td>
 </tr>
 <tr>
   <td><b>Week 10</b><br />18 Oct
   </td>
-  <td>Deep Learning and Explainable AI
+  <td>Intro to Deep Learning
   <br /><em>T07: Perceptron and Neural Networks</em>
   </td>
   <td>· 18-22 Oct, Individual Team Project Consulting
@@ -116,7 +115,7 @@ Note that the dates in the date column below are indexed for Mondays (the day of
 <tr>
   <td><b>Week 11</b><br />25 Oct
   </td>
-  <td>Unsupervised ML
+  <td>
   <br /><em>T08: Deep Learning and Explainable AI</em>
   </td>
   <td>· 25-29 Oct, Individual Team Project Consulting
@@ -125,10 +124,11 @@ Note that the dates in the date column below are indexed for Mondays (the day of
 <tr>
   <td><b>Week 12</b><br />1 Nov
   </td>
-  <td>Open Project Consulting
+  <td>Unsupervised ML
   <br /><em>T09: Unsupervised ML</em>
   </td>
-  <td>· 1-5 Nov, Individual Team Project Consulting
+  <td>· 1-5 Nov, Individual Team Project Consulting<BR/>
+    · No lecture on Thursday 4 Nov (<I>Deepavali</I>)
   </td>
 </tr>
 <tr>
@@ -138,7 +138,6 @@ Note that the dates in the date column below are indexed for Mondays (the day of
   <br /><em>T10: Practice Exams</em>
   </td>
   <td>
-    · Project
   </td>
 </tr>
 <tr>
@@ -155,7 +154,7 @@ Note that the dates in the date column below are indexed for Mondays (the day of
   <td>
   </td>
   <td>· Wed, 24 Nov 17:00-19:00: Final Exam
-  <br/>· Sun, 28 Nov 23:59: Recorded Project Presentation
+  <br/>· Sun, 28 Nov 23:59: Recorded Project Presentation and Project Materials due 
   </td>
 </tr>
 </tbody></table>
