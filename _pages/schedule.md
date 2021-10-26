@@ -115,7 +115,7 @@ Note that the dates in the date column below are indexed for Mondays (the day of
 <tr>
   <td><b>Week 11</b><br />25 Oct
   </td>
-  <td>
+  <td>Deep Learning and Explainable AI
   <br /><em>T08: Deep Learning and Explainable AI</em>
   </td>
   <td>· 25-29 Oct, Individual Team Project Consulting
