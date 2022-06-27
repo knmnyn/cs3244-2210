@@ -66,7 +66,7 @@ Questions about prerequisities and waivers are handled centrally by the departme
 <div style="text-align:center; display:grid; grid-template-columns: 1fr 1fr auto; margin-top:30px;">
 
 <div class="tutor__profile">
-  <img src="images/AY21-22/kanmy.jpg"/>
+  <img src="images/kanmy.jpg"/>
   <div>
     <strong>Min-Yen KAN</strong><br/>
     <a href="mailto:kanmy@comp.nus.edu.sg" style="text-decoration:none"><i class="fas fa-envelope"></i> kanmy@comp.nus.edu.sg</a><br/>
@@ -76,7 +76,7 @@ Questions about prerequisities and waivers are handled centrally by the departme
 
 <div class="tutor__profile">
   <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
-  <img src="images/AY21-22/BrianLim.jpg"/><BR/>
+  <img src="images/BrianLim.jpg"/><BR/>
   <div>
     <strong>Brian LIM</strong><BR/>
     <a href="mailto:brianlim@comp.nus.edu.sg" style="text-decoration:none"><i class="fas fa-envelope"></i> brianlim@comp.nus.edu.sg</a><br/>
