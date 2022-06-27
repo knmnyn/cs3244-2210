@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "CS3244 Machine Learning AY21/22 Sem I"
+title                    : "CS3244 Machine Learning AY22/23 Sem I"
 title_separator          : "-"
 name                     : &name "CS3244 Machine Learning"
 description              : &description "NUS School of Computing's Machine Learning Module"
 url                      : https://knmnyn.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/cs3244-2110" # the subpath of your site, e.g. "/blog"
-repository               : "knmnyn/cs3244-2110.github.io"
+baseurl                  : "/cs3244-2210" # the subpath of your site, e.g. "/blog"
+repository               : "knmnyn/cs3244-2210.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -84,7 +84,7 @@ author:
   avatar           : "jaywennington.png"
   bio              : "Our undergraduate machine learning course at the National University of Singapore's School of Computing"
   location         : "NUS, Singapore"
-  employer         : 
+  employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "https://scholar.google.com/citations?user=aNVcd3EAAAAJ&hl=en"
   email            : "cs3244@comp.nus.edu.sg"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "knmnyn/cs3244-2110/"
+  github           : "knmnyn/cs3244-2210/"
   google_plus      :
   keybase          :
   instagram        :
