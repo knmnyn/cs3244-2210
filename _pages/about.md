@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-#### NUS SoC, 2021/2022, Semester I, Hybrid: Physically Mondays, 16:00-18:00 (i3 Auditorium) and Thursdays, 11:00-12:00 (LT15); Virtually on Zoom via LumiNUS Conferencing.
-<!-- #### NUS SoC, 2021/2022, Semester I, Time and Venue: fully online via Zoom and YouTube. Officially from LumiNUS: Mondays, 16:00-18:00 and Thursdays, 11:00-12:00. -->
+#### NUS SoC, 2022/2023, Semester I, Hybrid: Physically Mondays, 16:00-18:00 (i3 Auditorium) and Thursdays, 11:00-12:00 (i3 Auditorium); Virtually on Zoom via LumiNUS Conferencing.
 
 <P>&nbsp;
 </P>
@@ -24,7 +23,7 @@ N.B. We will be teaching and using the Python programming language throughout th
 
 ## Class Structure
 
-This class is a synchronous hybrid class, a variant of a blended class. You'll need to be synchronously present in the lecture (either in the lecture theatre or online in Zoom) to participate for class participation marks. 
+This class is a synchronous hybrid class, a variant of a blended class. You'll need to be synchronously present in the lecture (either in the lecture theatre or online in Zoom) to participate for class participation marks.
 
 **Important**: Do ensure that you have the lecture times free in your schedule, as the class is synchronous.  There will no be alternate exam arrangements.
 
@@ -60,7 +59,7 @@ Tutorial Sessions:
 Translation:
 Data Structures and Algorithms, Probability and Statistics, Linear Algebra and Calculus.
 
-Questions about prerequisities and waivers are handled centrally by the department. Please contact [OOI Wei Tsang)](mailto:ooiwt@comp.nus.edu.sg) to describe your case and seek any waivers regarding prerequisities.
+Questions about prerequisities and waivers are handled centrally by the department. Please contact [Seth GILBERT)](mailto:seth@comp.nus.edu.sg) to describe your case and seek any waivers regarding prerequisities.
 
 ## Instructors
 
@@ -95,195 +94,32 @@ Questions about prerequisities and waivers are handled centrally by the departme
 
 <div style="text-align:center; display:grid; grid-template-columns: 1fr 1fr 1fr; margin-top:30px;">
 
+<!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
+<!--
 <div class="tutor__profile">
-  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
   <img src="images/AY21-22/AbhinavRameshKashyap.png"/><BR/>
   <strong>Abhinav Ramesh KASHYAP</strong>
   <BR/>
   <A HREF="mailto:abhinav@comp.nus.edu.sg" style="text-decoration:none"><i class="fas fa-envelope"></i> abhinav@comp.nus.edu.sg</A><BR/>
 </div>
-
-<div class="tutor__profile">
-  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
-  <img src="images/AY21-22/ChewKinWhye.jpg"/><BR/>
-  <strong>CHEW Kin Whye</strong>
-  <BR/>
-  <A HREF="mailto:e0200920@u.nus.edu" style="text-decoration:none"><i class="fas fa-envelope"></i> e0200920@u.nus.edu</A><BR/>
-</div>
-
-<div class="tutor__profile">
-  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
-  <img src="images/AY21-22/PranavanTheivendiram.jpg"/><BR/>
-  <strong>Pranavan THEIVENDIRAM</strong>
-  <BR/>
-  <A HREF="mailto:pranavan@nus.edu.sg" style="text-decoration:none"><i class="fas fa-envelope"></i> pranavan@nus.edu.sg</A><BR/>
-</div>
-
-<div class="tutor__profile">
-  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
-  <img src="images/AY21-22/RuihaoShui.jpg"/><BR/>
-  <strong>Ruihao SHUI</strong>
-  <BR/>
-  <A HREF="mailto:e0517242@u.nus.edu" style="text-decoration:none"><i class="fas fa-envelope"></i> e0517242@u.nus.edu</A><BR/>
-</div>
-
-<div class="tutor__profile">
-  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
-  <img src="images/AY21-22/SamsonTan.jpg"/><BR/>
-  <strong>Samson TAN</strong>
-  <BR/>
-  <A HREF="mailto:e0003945@u.nus.edu" style="text-decoration:none"><i class="fas fa-envelope"></i> e0003945@u.nus.edu</A><BR/>
-</div>
-
-<div class="tutor__profile">
-  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
-  <img src="images/AY21-22/YisongMiao.jpg"/><BR/>
-  <strong>Yisong MIAO</strong>
-  <BR/>
-  <A HREF="mailto:e0148642@u.nus.edu" style="text-decoration:none"><i class="fas fa-envelope"></i> e0148642@u.nus.edu</A><BR/>
-</div>
-
-<div class="tutor__profile">
-  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
-  <img src="images/AY21-22/YufanCai.jpg"/><BR/>
-  <strong>Yufan CAI</strong>
-  <BR/>
-  <A HREF="mailto:e0546265@u.nus.edu" style="text-decoration:none"><i class="fas fa-envelope"></i> e0546265@u.nus.edu</A><BR/>
-</div>
-
-<div class="tutor__profile">
-  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
-  <img src="images/AY21-22/ZhiyuanLiu.jpg"/><BR/>
-  <strong>Zhiyuan LIU</strong>
-  <BR/>
-  <A HREF="mailto:e0517239@u.nus.edu" style="text-decoration:none"><i class="fas fa-envelope"></i> e0517239@u.nus.edu</A><BR/>
-</div>
-
+-->
+<p>To be announced.</p>
 </div>
 
 ### Undergraduate Teaching Assistants
 
 <div style="text-align:center; display:grid; grid-template-columns: 1fr 1fr 1fr; margin-top:30px;">
 
+<!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
+<!--
 <div class="tutor__profile">
-  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
   <img src="images/AY21-22/BryanWangPengJun.jpg"/><BR/>
   <strong>Bryan Wang Peng JUN</strong>
   <BR/>
   <A HREF="mailto:e0540007@u.nus.edu" style="text-decoration:none"><i class="fas fa-envelope"></i> e0540007@u.nus.edu</A><BR/>
 </div>
-
-<div class="tutor__profile">
-  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
-  <img src="images/AY21-22/CheongSiuHong.jpg"/><BR/>
-  <strong>Cheong Siu HONG</strong>
-  <BR/>
-  <A HREF="mailto:e0323602@u.nus.edu" style="text-decoration:none"><i class="fas fa-envelope"></i> e0323602@u.nus.edu</A><BR/>
-</div>
-
-<div class="tutor__profile">
-  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
-  <img src="images/AY21-22/DickJessenWilliam.jpg"/><BR/>
-  <strong>Dick Jessen WILLIAM</strong>
-  <BR/>
-  <A HREF="mailto:e0407658@u.nus.edu" style="text-decoration:none"><i class="fas fa-envelope"></i> e0407658@u.nus.edu</A><BR/>
-</div>
-
-<div class="tutor__profile">
-  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
-  <img src="images/AY21-22/JosephWongYefeng.jpg"/><BR/>
-  <strong>Joseph Wong YEFENG</strong>
-  <BR/>
-  <A HREF="mailto:e0311252@u.nus.edu" style="text-decoration:none"><i class="fas fa-envelope"></i> e0311252@u.nus.edu</A><BR/>
-</div>
-
-<div class="tutor__profile">
-  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
-  <img src="images/AY21-22/JunJieNew.jpg"/><BR/>
-  <strong>Jun Jie NEW</strong>
-  <BR/>
-  <A HREF="mailto:e0389098@u.nus.edu" style="text-decoration:none"><i class="fas fa-envelope"></i> e0389098@u.nus.edu</A><BR/>
-</div>
-
-<div class="tutor__profile">
-  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
-  <img src="images/AY21-22/MarcusLee.jpg"/><BR/>
-  <strong>Marcus LEE</strong>
-  <BR/>
-  <A HREF="mailto:e0325342@u.nus.edu" style="text-decoration:none"><i class="fas fa-envelope"></i> e0325342@u.nus.edu</A><BR/>
-</div>
-
-<div class="tutor__profile">
-  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
-  <img src="images/AY21-22/NoelMathewIsaac.jpg"/><BR/>
-  <strong>Noel Mathew ISAAC</strong>
-  <BR/>
-  <A HREF="mailto:e0415881@u.nus.edu" style="text-decoration:none"><i class="fas fa-envelope"></i> e0415881@u.nus.edu</A><BR/>
-</div>
-
-<div class="tutor__profile">
-  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
-  <img src="images/AY21-22/RaymondTanujaya.jpg"/><BR/>
-  <strong>Raymond TANUJAYA</strong>
-  <BR/>
-  <A HREF="mailto:e0407669@u.nus.edu" style="text-decoration:none"><i class="fas fa-envelope"></i> e0407669@u.nus.edu</A><BR/>
-</div>
-
-<div class="tutor__profile">
-  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
-  <img src="images/AY21-22/RishabhAnand.jpg"/><BR/>
-  <strong>Rishabh ANAND</strong>
-  <BR/>
-  <A HREF="mailto:e0555795@u.nus.edu" style="text-decoration:none"><i class="fas fa-envelope"></i> e0555795@u.nus.edu</A><BR/>
-</div>
-
-<div class="tutor__profile">
-  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
-  <img src="images/AY21-22/SakshiPradyumn.jpg"/><BR/>
-  <strong>Sakshi PRADYUMN</strong>
-  <BR/>
-  <A HREF="mailto:e0313722@u.nus.edu" style="text-decoration:none"><i class="fas fa-envelope"></i> e0313722@u.nus.edu</A><BR/>
-</div>
-
-<div class="tutor__profile">
-  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
-  <img src="images/AY21-22/ShuoLi.jpg"/><BR/>
-  <strong>Shuo LI</strong>
-  <BR/>
-  <A HREF="mailto:e0406405@u.nus.edu" style="text-decoration:none"><i class="fas fa-envelope"></i> e0406405@u.nus.edu</A><BR/>
-</div>
-
-<div class="tutor__profile">
-  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
-  <img src="images/AY21-22/TianyiLiu.jpg"/><BR/>
-  <strong>Tianyi LIU</strong>
-  <BR/>
-  <A HREF="mailto:e0406663@u.nus.edu" style="text-decoration:none"><i class="fas fa-envelope"></i> e0406663@u.nus.edu</A><BR/>
-</div>
-
-<div class="tutor__profile">
-  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
-  <img src="images/AY21-22/VisheshArora.jpg"/><BR/>
-  <strong>Vishesh ARORA</strong>
-  <BR/>
-  <A HREF="mailto:e0407544@u.nus.edu" style="text-decoration:none"><i class="fas fa-envelope"></i> e0407544@u.nus.edu</A><BR/>
-</div>
-
-<div class="tutor__profile">
-  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
-  <img src="images/AY21-22/XiZhiLow.jpg"/><BR/>
-  <strong>Xi Zhi LOW</strong>
-  <BR/>
-  <A HREF="mailto:e0316055@u.nus.edu" style="text-decoration:none"><i class="fas fa-envelope"></i> e0316055@u.nus.edu</A><BR/>
-</div>
-
-<div class="tutor__profile">
-  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
-  <img src="images/AY21-22/ZhuoranLi.jpg"/><BR/>
-  <strong>Zhuoran LI</strong>
-  <BR/>
-  <A HREF="mailto:e0376940@u.nus.edu" style="text-decoration:none"><i class="fas fa-envelope"></i> e0376940@u.nus.edu</A><BR/>
-</div>
+-->
+<p>To be announced.</p>
 
 </div>
 
