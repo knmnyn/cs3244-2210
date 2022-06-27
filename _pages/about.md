@@ -10,13 +10,6 @@ redirect_from:
 
 #### NUS SoC, 2022/2023, Semester I, Hybrid: Physically Mondays, 16:00-18:00 (i3 Auditorium) and Thursdays, 11:00-12:00 (i3 Auditorium); Virtually on Zoom via LumiNUS Conferencing.
 
-<P>&nbsp;
-</P>
-<P>&nbsp;
-</P>
-<P>&nbsp;
-</P>
-
 This module introduces basic concepts and algorithms in machine learning and neural networks. The main reason for studying computational learning is to make better use of powerful computers to learn knowledge (or regularities) from the raw data. The ultimate objective is to build self-learning systems to relieve human from some of already-too-many programming tasks. At the end of the course, students are expected to be familiar with the theories and paradigms of computational learning, and capable of implementing basic learning systems.
 
 N.B. We will be teaching and using the Python programming language throughout this class and Jupyter Notebook via Google Colab. We will using Python 3.x, and largely the SciKitLearn and PyTorch libraries.
