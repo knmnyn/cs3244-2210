@@ -6,4 +6,6 @@ A Github Pages template for academic websites. This was forked (then detached) b
 
 `draft.html` - a separate template HTML for sending customized templated emails.  Originally crafted at beefree.io.
 
-Notes: 500e80 hex is the color code for the purple background for the webpage, find the color scheme at `_sass/_variables.scss`
+Find the color scheme at `_sass/_variables.scss`
+
+Reference for 2210: https://icolorpalette.com/download/palette/517091_color_palette.jpg
