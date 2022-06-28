@@ -28,7 +28,7 @@ There will be tutorials for this class starting in Week 03. As the class is hybi
 
 These tutorial session timings still subject to change. Please see <a href="https://nusmods.com/modules/CS3244/machine-learning">NUSMods</a> for the most up-to-date details. As an enrolled student, you are entitled to one tutorial placement, and need to attend that slot even if not optimal for you. Nicely, all of the tutorials slots come before (Monday-Wednesday), the second class lecture slot on Thursdays.
 
-If you have difficulties with registering for a valid tutorial slot in your schedule, please contact the teaching assistant tutorial registration coordinators Enzio Kam and Mariya Tsyganova: <a href="mailto:ekam@comp.nus.edu.sg?subject='CS3244 Tutorial Registration Problem'&cc=mtsyg@comp.nus.edu.sg">ekam@comp.nus.edu.sg / mtsyg@comp.nus.edu.sg</a>.  Do not direct your email to the facilitators of the course.
+If you have difficulties with registering for a valid tutorial slot in your schedule, please contact the teaching assistant tutorial registration coordinators Enzio Kam and Mariya Tsyganova: <a href="mailto:ekam@comp.nus.edu.sg?subject=CS3244 Tutorial Registration Problem&cc=mtsyg@comp.nus.edu.sg">ekam@comp.nus.edu.sg / mtsyg@comp.nus.edu.sg</a>.  Do not direct your email to the facilitators of the course.
 
 1. T01. Mondays, 13:00-14:00
 2. T02. Wednesdays, 17:00-18:00
