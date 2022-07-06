@@ -71,7 +71,7 @@ Questions about prerequisities and waivers are handled centrally by the departme
 
 <div class="tutor__profile">
   <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
-  <img src="images/BrianLim.jpg"/><BR/>
+  <img src="images/BrianLim.jpeg"/><BR/>
   <div>
     <strong>Brian LIM</strong><BR/>
     <a href="mailto:brianlim@comp.nus.edu.sg" style="text-decoration:none"><i class="fas fa-envelope"></i> brianlim@comp.nus.edu.sg</a><br/>
@@ -118,7 +118,7 @@ Questions about prerequisities and waivers are handled centrally by the departme
 </div>
 
   <div class="tutor__profile">
-  <img src="images/bio-phot.jpg"/><BR/>
+  <img src="images/bio-photo.jpg"/><BR/>
   <strong>LEE Penn Han</strong>
   <BR/>
   <A HREF="mailto:e0407133@u.nus.edu" style="text-decoration:none"><i class="fas fa-envelope"></i> e0407133@u.nus.edu</A><BR/>
