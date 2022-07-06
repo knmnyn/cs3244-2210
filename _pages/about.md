@@ -118,7 +118,7 @@ Questions about prerequisities and waivers are handled centrally by the departme
 </div>
 
   <div class="tutor__profile">
-  <img src="images/bio-photo.jpg"/><BR/>
+  <img src="images/pennhan.jpg"/><BR/>
   <strong>LEE Penn Han</strong>
   <BR/>
   <A HREF="mailto:e0407133@u.nus.edu" style="text-decoration:none"><i class="fas fa-envelope"></i> e0407133@u.nus.edu</A><BR/>
@@ -132,7 +132,7 @@ Questions about prerequisities and waivers are handled centrally by the departme
 </div>
 
   <div class="tutor__profile">
-  <img src="images/aryan.jpg"/><BR/>
+  <img src="images/aryan.png"/><BR/>
   <strong>Aryan SARSWAT</strong>
   <BR/>
   <A HREF="mailto:e0407502@u.nus.edu" style="text-decoration:none"><i class="fas fa-envelope"></i> e0407502@u.nus.edu</A><BR/>
