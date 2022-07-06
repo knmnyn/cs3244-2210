@@ -16,7 +16,9 @@ N.B. We will be teaching and using the Python programming language throughout th
 
 ## Class Structure
 
-This class is a synchronous hybrid class, a variant of a blended class. You'll need to be synchronously present in the lecture (either in the lecture theatre or online in Zoom) to participate for class participation marks.  It is highly encouraged that you come to class physically, as also encouraged by the current university policy. 
+While we will not require any proof of your inability to attend physically to attend class online, as with current NUS policy, you are strongly encouraged to come to class physically on the days of lecture and tutorial.  
+
+This class is a synchronous hybrid class, a variant of a blended class. You'll need to be synchronously present in the lecture (either in the lecture theatre or online in Zoom) to participate for class participation marks.  It is highly encouraged that you come to class physically, as also encouraged by the current university policy. Attendance in person and online will be recorded.
 
 **Important**: Do ensure that you have the lecture times free in your schedule, as the class is synchronous.  There will no be alternate exam arrangements.
 
@@ -24,7 +26,7 @@ For most of the Thursdays sessions, we will have a synchronous help session wher
 
 ### Tutorial Sessions
 
-There will be tutorials for this class starting in Week 03. As the class is hybird, these sessions will be the complementary means by which we touch base with you and get to know you personally. Please do attend these sessions via Zoom, as they will not be webcasted (although tutorial solutions will be distributed, you should come to the sessions to get the complete picture, and to be a part of the class).
+There will be tutorials for this class starting in Week 03. As with the lecture, you are encouraged to come physically for these sessions at Computing.  These will be the complementary means by which we touch base with you and get to know you personally. Please do attend these sessions physically, as many of these sessions will not be webcasted (although tutorial solutions will be distributed, you should come to the sessions to get the complete picture, and to be a part of the class).
 
 These tutorial session timings still subject to change. Please see <a href="https://nusmods.com/modules/CS3244/machine-learning">NUSMods</a> for the most up-to-date details. As an enrolled student, you are entitled to one tutorial placement, and need to attend that slot even if not optimal for you. Nicely, all of the tutorials slots come before (Monday-Wednesday), the second class lecture slot on Thursdays.
 
