@@ -88,15 +88,12 @@ Questions about prerequisities and waivers are handled centrally by the departme
 <div style="text-align:center; display:grid; grid-template-columns: 1fr 1fr 1fr; margin-top:30px;">
 
 <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
-<!--
 <div class="tutor__profile">
-  <img src="images/AY21-22/AbhinavRameshKashyap.png"/><BR/>
-  <strong>Abhinav Ramesh KASHYAP</strong>
+  <img src="images/taha.jpg"/><BR/>
+  <strong>Ibrahim Taha AKSU</strong>
   <BR/>
-  <A HREF="mailto:abhinav@comp.nus.edu.sg" style="text-decoration:none"><i class="fas fa-envelope"></i> abhinav@comp.nus.edu.sg</A><BR/>
+  <A HREF="mailto:tahaaksu01@gmail.com" style="text-decoration:none"><i class="fas fa-envelope"></i> tahaaksu01@gmail.com</A><BR/>
 </div>
--->
-<p>To be announced.</p>
 </div>
 
 ### Undergraduate Teaching Assistants
@@ -104,15 +101,54 @@ Questions about prerequisities and waivers are handled centrally by the departme
 <div style="text-align:center; display:grid; grid-template-columns: 1fr 1fr 1fr; margin-top:30px;">
 
 <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
-<!--
 <div class="tutor__profile">
-  <img src="images/AY21-22/BryanWangPengJun.jpg"/><BR/>
-  <strong>Bryan Wang Peng JUN</strong>
+  <img src="images/bio-photo.jpg"/><BR/>
+  <strong>DENG Huaiyu</strong>
   <BR/>
-  <A HREF="mailto:e0540007@u.nus.edu" style="text-decoration:none"><i class="fas fa-envelope"></i> e0540007@u.nus.edu</A><BR/>
+  <A HREF="mailto:e0564878@u.nus.edu" style="text-decoration:none"><i class="fas fa-envelope"></i> e0564878@u.nus.edu</A><BR/>
 </div>
--->
-<p>To be announced.</p>
+
+  <div class="tutor__profile">
+  <img src="images/bio-photo.jpg"/><BR/>
+  <strong>FAN Jue</strong>
+  <BR/>
+  <A HREF="mailto:e0559110@u.nus.edu" style="text-decoration:none"><i class="fas fa-envelope"></i> e0559110@u.nus.edu</A><BR/>
+</div>
+
+  <div class="tutor__profile">
+  <img src="images/bio-phot.jpg"/><BR/>
+  <strong>LEE Penn Han</strong>
+  <BR/>
+  <A HREF="mailto:e0407133@u.nus.edu" style="text-decoration:none"><i class="fas fa-envelope"></i> e0407133@u.nus.edu</A><BR/>
+</div>
+
+  <div class="tutor__profile">
+  <img src="images/junan.jpg"/><BR/>
+  <strong>LUA Jun An</strong>
+  <BR/>
+  <A HREF="mailto:e0426059@u.nus.edu" style="text-decoration:none"><i class="fas fa-envelope"></i> e0426059@u.nus.edu</A><BR/>
+</div>
+
+  <div class="tutor__profile">
+  <img src="images/aryan.jpg"/><BR/>
+  <strong>Aryan SARSWAT</strong>
+  <BR/>
+  <A HREF="mailto:e0407502@u.nus.edu" style="text-decoration:none"><i class="fas fa-envelope"></i> e0407502@u.nus.edu</A><BR/>
+</div>
+
+  <div class="tutor__profile">
+  <img src="images/tianxiao.jpg"/><BR/>
+  <strong>TIAN Xiao</strong>
+  <BR/>
+  <A HREF="mailto:e0555784@u.nus.edu" style="text-decoration:none"><i class="fas fa-envelope"></i> e0555784@u.nus.edu</A><BR/>
+</div>
+
+  <div class="tutor__profile">
+  <img src="images/juliet.jpg"/><BR/>
+  <strong>Juliet TEOH Qian Ying</strong>
+  <BR/>
+  <A HREF="mailto:e0426308@u.nus.edu" style="text-decoration:none"><i class="fas fa-envelope"></i> e0426308@u.nus.edu</A><BR/>
+</div>
 
 </div>
 
