@@ -7,8 +7,7 @@ author_profile: false
 
 We note that Machine Learning is a subject with a lot of very good expertise and tutorials out there. It is best to tap on these resources, as they have good production quality and are more condensed, possibly saving you time. However, we still think in-class lecture is helpful to build better connection with the materials for certain topics.
 
-This module will be taught synchronously through Zoom or through live in-place lecture at the LT (where allowed). This iteration will not be conducted in a flipped style, unlike previous iterations.
-Recordings of the class will be taken, and are likely (but not guaranteed) to be offered in the Conferencing component. Students are expected to be available for both lecture hours and their respective tutorial slots. Tutorials will involve a mix of activities; activities are likely to vary week to week.
+This module will be taught synchronously, live in-place lecture at i3 Auditorium (when allowed).  While recordings of the class will be taken, and are likely (but not guaranteed) to be offered in the Conferencing component, students are expected to be physically present in the lecture hall for both lecture hours and their respective tutorial slots. Tutorials will involve a mix of activities; activities are likely to vary week to week.
 Note that the dates in the date column below are indexed for Mondays (the day of the first class lecture according to the registrar)
 
 <!--- For those who find the pace of the videos too fast or needing a bit more time to digest the materials, we will offer an in-class help session during the lecture slot (i.e., Thursdays 12:00-14:00) on the remaining weeks (Weeks 2-6 and 8-12). This is completely optional (not counting against your workload), and we will not be introducing any material for the help sessions. It is just voluntary help from all of us on the staff. -->
