@@ -104,7 +104,7 @@ Questions about prerequisities and waivers are handled centrally by the departme
 
 <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
 <div class="tutor__profile">
-  <img src="images/bio-photo.jpg"/><BR/>
+  <img src="images/huaiyu.jpg"/><BR/>
   <strong>DENG Huaiyu</strong>
   <BR/>
   <A HREF="mailto:e0564878@u.nus.edu" style="text-decoration:none"><i class="fas fa-envelope"></i> e0564878@u.nus.edu</A><BR/>
