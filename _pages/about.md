@@ -113,7 +113,7 @@ Questions about prerequisities and waivers are handled centrally by the departme
   <div class="tutor__profile">
   <img src="images/fanjue.jpg"/><BR/>
   <strong>
-    Jue</strong>
+    FAN Jue</strong>
   <BR/>
   <A HREF="mailto:e0559110@u.nus.edu" style="text-decoration:none"><i class="fas fa-envelope"></i> e0559110@u.nus.edu</A><BR/>
 </div>
