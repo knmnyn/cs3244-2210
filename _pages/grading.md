@@ -13,7 +13,7 @@ assessment milestones, inclusive of two exams. Both exam assessments will largel
 <table class="table table-striped" style="margin-left: auto; margin-right:auto">
   <thead class="thead-inverse"><tr><th>Description</th><th>Percentage</th></tr></thead>
   <tbody>
-    <tr><td>Midterm Exam (Mon, 26 Sep 2022 @ 16:00–18:00)</td><td>20%</td></tr>
+    <tr><td>Midterm Exam (Mon, 26 Sep 2022 @ 16:00–17:00)</td><td>20%</td></tr>
     <tr><td>Final Exam (Mon, 21 Nov 2022 @ 17:00–19:00)</td><td>35%</td></tr>
     <tr><td>Machine Learning Project</td><td>25%</td></tr>
     <tr><td>Individual Assignment</td><td>10%</td></tr>
