@@ -77,16 +77,16 @@ your assignment. Failure to adequately acknowledge your contributors
 is at best a lapse of professional etiquette, and at worst it is
 plagiarism. Plagiarism is a form of cheating.
 
-**The No-Sponge Rule**: In intra-team collaboration where the group,
+**The No-Sponge Rule**: In intra-team collaboration where the team,
 as a whole, produces a single “product”, each member of the team must
-actively contribute. Members of the group have the responsibility (1)
+actively contribute. Members of the team have the responsibility (1)
 to not tolerate anyone who is putting forth no effort (being a sponge)
 and (2) to not let anyone who is making a good faith effort “fall
 through a crack” (to help weaker team members come up to speed so they
-can contribute). We want to know about dysfunctional group situations
+can contribute). We want to know about dysfunctional team situations
 as early as possible. To encourage everyone to participate fully, we
 make sure that every student is given an opportunity to explain and
-justify their group’s approach.
+justify their team’s approach.
 
 This section on academic honesty is adapted from Surendar Chandra’s
 course at the University of Georgia, who in turn acknowledges
