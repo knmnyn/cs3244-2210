@@ -32,17 +32,17 @@ Not all datasets out there are well calibrated to give beginners a mastery exper
 </table>
 <p><br /></p>
 
-You will need to form groups and propose a topic to for your project in
+You will need to form teams and propose a topic to for your project in
 a formal project proposal.  The staff and your peers will give you
 feedback.  After the project proposal, you will be assigned a contact
 TA that you can use as a resource for questions and advice.
 
 ## Final Project Presentation
 
-Groups will need to provide the following deliverables: 
+Teams will need to provide the following deliverables: 
 
-* A video recording documenting your group's project, limited to 15 minutes maximum (primary deliverable)
-* URL to your group's project source code (Git repo or Google Colab link)
+* A video recording documenting your team's project, limited to 15 minutes maximum (primary deliverable)
+* URL to your team's project source code (Git repo or Google Colab link)
 * Slides used in your video recording (.pptx or .pdf only) 
 
 Detailed grading rubrics for all phases of the project will be provided.
@@ -52,7 +52,7 @@ The general grading metrics are as follows:
 * Relevance to course
 * Quality of arguments (are claims supported, how convincing are the arguments you bring forward)
 * Clarity (how clearly are goals and achievements presented)
-* Scope/Size (in proportion to size of group)
+* Scope/Size (in proportion to size of team)
 * Significance (are the questions you are asking interesting)
 
 As with supervised machine learning, sometimes it’s easier to learn from
@@ -64,4 +64,4 @@ CS3244 projects as housed in SoC's STePS platform, from either
 [Semester I, AY 18/19](https://isteps.comp.nus.edu.sg/event/13th-steps/module/CS3244).
 
 
-We also would like to thank [Google Workspace for Education](https://edu.google.com/products/workspace-for-education/) for their continued sponsorship of our course by allowing our course administrators to distribute 50 USD worth of Google Compute Engine credits to project groups that have applied for credit for their course project work.
+We also would like to thank [Google Workspace for Education](https://edu.google.com/products/workspace-for-education/) for their continued sponsorship of our course by allowing our course administrators to distribute 50 USD worth of Google Compute Engine credits to project teams that have applied for credit for their course project work.
