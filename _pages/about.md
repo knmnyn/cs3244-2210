@@ -96,6 +96,13 @@ Questions about prerequisities and waivers are handled centrally by the departme
   <BR/>
   <A HREF="mailto:tahaaksu01@gmail.com" style="text-decoration:none"><i class="fas fa-envelope"></i> tahaaksu01@gmail.com</A><BR/>
 </div>
+  
+  <div class="tutor__profile">
+  <img src="images/shiyuang.jpg"/><BR/>
+  <strong>SHI Yuang</strong>
+  <BR/>
+  <A HREF="mailto:yuangshi@u.nus.edu" style="text-decoration:none"><i class="fas fa-envelope"></i> yuangshi@u.nus.edu</A><BR/>
+</div>
 </div>
 
 ### Undergraduate Teaching Assistants
