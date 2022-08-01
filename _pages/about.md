@@ -125,6 +125,13 @@ Questions about prerequisities and waivers are handled centrally by the departme
 
 <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
 <div class="tutor__profile">
+  <img src="images/putri.png"/><BR/>
+  <strong>Putri DARMAWAN</strong>
+  <BR/>
+  <A HREF="mailto:e0407698@u.nus.edu" style="text-decoration:none"><i class="fas fa-envelope"></i> e0407698@u.nus.edu</A><BR/>
+</div>
+
+  <div class="tutor__profile">
   <img src="images/huaiyu.jpg"/><BR/>
   <strong>DENG Huaiyu</strong>
   <BR/>
@@ -137,6 +144,14 @@ Questions about prerequisities and waivers are handled centrally by the departme
     FAN Jue</strong>
   <BR/>
   <A HREF="mailto:e0559110@u.nus.edu" style="text-decoration:none"><i class="fas fa-envelope"></i> e0559110@u.nus.edu</A><BR/>
+</div>
+
+<!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
+<div class="tutor__profile">
+  <img src="images/zhunyi.png"/><BR/>
+  <strong>FENG Zhunyi</strong>
+  <BR/>
+  <A HREF="mailto:e0492447@u.nus.edu" style="text-decoration:none"><i class="fas fa-envelope"></i> e0492447@u.nus.edu</A><BR/>
 </div>
 
   <div class="tutor__profile">
@@ -158,6 +173,13 @@ Questions about prerequisities and waivers are handled centrally by the departme
   <strong>Aryan SARSWAT</strong>
   <BR/>
   <A HREF="mailto:e0407502@u.nus.edu" style="text-decoration:none"><i class="fas fa-envelope"></i> e0407502@u.nus.edu</A><BR/>
+</div>
+
+  <div class="tutor__profile">
+  <img src="images/tianfang.jpg"/><BR/>
+  <strong>TIAN Fang</strong>
+  <BR/>
+  <A HREF="mailto:e0376998@u.nus.edu" style="text-decoration:none"><i class="fas fa-envelope"></i> e0376998@u.nus.edu</A><BR/>
 </div>
 
   <div class="tutor__profile">
