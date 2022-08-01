@@ -176,7 +176,7 @@ Questions about prerequisities and waivers are handled centrally by the departme
 </div>
 
   <div class="tutor__profile">
-  <img src="images/tianfang.jpg"/><BR/>
+  <img src="images/tianfang.png"/><BR/>
   <strong>TIAN Fang</strong>
   <BR/>
   <A HREF="mailto:e0376998@u.nus.edu" style="text-decoration:none"><i class="fas fa-envelope"></i> e0376998@u.nus.edu</A><BR/>
