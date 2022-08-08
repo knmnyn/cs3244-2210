@@ -32,18 +32,18 @@ These tutorial session timings still subject to change. Please see <a href="http
 
 If you have difficulties with registering for a valid tutorial slot in your schedule, please contact the teaching assistant tutorial registration coordinators Enzio Kam and Mariya Tsyganova: <a href="mailto:ekam@comp.nus.edu.sg?subject=CS3244 Tutorial Registration Problem&cc=mtsyg@comp.nus.edu.sg">ekam@comp.nus.edu.sg / mtsyg@comp.nus.edu.sg</a>.  Do not direct your email to the facilitators of the course.
 
-1. T01. Mondays, 13:00-14:00
-2. T02. Wednesdays, 17:00-18:00
-3. T03. Mondays, 15:00-16:00
-4. T04. Mondays, 14:00-15:00
-5. T05. Wednesdays, 11:00-12:00
-6. T06. Mondays, 12:00-13:00
-7. T07. Wednesdays, 16:00-17:00
-8. T08. Wednesdays, 10:00-11:00
-9. T09. Tuesdays, 16:00-17:00
-10. T10. Tuesdays, 17:00-18:00
-11. T11. Tuesdays, 12:00-13:00
-12. T12. Tuesdays, 13:00-14:00
+1. T01. Mondays, 12:00-13:00
+2. T02. Mondays, 13:00-14:00
+3. T03. Mondays, 14:00-15:00
+4. T04. Tuesdays, 12:00-13:00
+5. T05. Tuesdays, 13:00-14:00
+6. T06. Tuesdays, 14:00-15:00
+7. T07. Tuesdays, 16:00-17:00
+8. T08. Tuesdays, 17:00-18:00
+9. T09. Wednesdays, 10:00-11:00
+10. T10. Wednesdays, 11:00-12:00
+11. T11. Wednesdays, 16:00-17:00
+12. T12. Wednesdays, 17:00-18:00
 
 ## Course Characteristics
 
