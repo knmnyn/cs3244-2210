@@ -125,6 +125,13 @@ Questions about prerequisities and waivers are handled centrally by the departme
 
 <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
 <div class="tutor__profile">
+  <img src="images/aibo.png"/><BR/>
+  <strong>AI Bo</strong>
+  <BR/>
+  <A HREF="mailto:e0376958@u.nus.edu" style="text-decoration:none"><i class="fas fa-envelope"></i> e0376958@u.nus.edu</A><BR/>
+</div>
+
+  <div class="tutor__profile">
   <img src="images/putri.png"/><BR/>
   <strong>Putri DARMAWAN</strong>
   <BR/>
