@@ -105,6 +105,13 @@ Questions about prerequisities and waivers are handled centrally by the departme
 </div>
 
   <div class="tutor__profile">
+  <img src="images/tiedong.jpg"/><BR/>
+  <strong>LIU Tiedong</strong>
+  <BR/>
+  <A HREF="mailto:e0325301@u.nus.edu" style="text-decoration:none"><i class="fas fa-envelope"></i> e0325301@u.nus.edu</A><BR/>
+</div>
+  
+  <div class="tutor__profile">
   <img src="images/shiyuang.jpg"/><BR/>
   <strong>SHI Yuang</strong>
   <BR/>
