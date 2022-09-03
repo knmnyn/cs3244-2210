@@ -55,7 +55,7 @@ Note that the dates in the date column below are indexed for Mondays (the day of
   <br />
   <em>T03: Linear Models</em>
   </td>
-  <td>· Sun, 11 Sep 23:59: Project Proposals Due
+  <td>· (Revised) <s>Sun, 11 Sep 23:59</s> Tue, 13 Sep 23:59: Project Proposals Due
   </td>
 </tr>
 <tr>
@@ -64,7 +64,7 @@ Note that the dates in the date column below are indexed for Mondays (the day of
   <td>Regularization and Validation
   <br /><em>T04: Bias and Variance, Regularization and Validation</em>
   </td>
-  <td>· Sun, 18 Sep 23:59: Project Proposal Peer Critique Due
+  <td>· (Revised) <s>Sun, 18 Sep 23:59</s> Tue, 20 Sep 23:59: Project Proposal Peer Critique Due
   </td>
 </tr>
 <tr>
