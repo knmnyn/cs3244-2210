@@ -193,7 +193,7 @@ Questions about prerequisities and waivers are handled centrally by the departme
   <img src="images/naaman.jpg"/><BR/>
   <strong>TAN Yong-Jia, Naaman</strong>
   <BR/>
-  <A HREF="mailto:e0407698@u.nus.edu" style="text-decoration:none"><i class="fas fa-envelope"></i> e0407698@u.nus.edu</A><BR/>
+  <A HREF="mailto:e0425222@u.nus.edu" style="text-decoration:none"><i class="fas fa-envelope"></i> e0425222@u.nus.edu</A><BR/>
 </div>
 
 
